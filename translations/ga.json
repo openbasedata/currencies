@@ -1,0 +1,464 @@
+{
+  "AED": {
+    "name": "Dirham Aontas na nÉimíríochtaí Arabacha"
+  },
+  "AFN": {
+    "name": "Afghani na hAfganastáine"
+  },
+  "ALL": {
+    "name": "Lek na hAlbáine"
+  },
+  "AMD": {
+    "name": "Dram na hAirméine"
+  },
+  "ANG": {
+    "name": "Gildear Aintillí na hÍsiltíre"
+  },
+  "AOA": {
+    "name": "Kwanza Angóla"
+  },
+  "ARS": {
+    "name": "Peso na hAirgintíne"
+  },
+  "AUD": {
+    "name": "Dollar na hAstráile"
+  },
+  "AWG": {
+    "name": "Flóirín Arúba"
+  },
+  "AZN": {
+    "name": "Manat na hAsarbaiseáine"
+  },
+  "BAM": {
+    "name": "Marg Inmhalartaithe na Boisnia-Heirseagaivéine"
+  },
+  "BBD": {
+    "name": "Dollar Bharbadós"
+  },
+  "BDT": {
+    "name": "Taka na Banglaidéise"
+  },
+  "BGN": {
+    "name": "Lev na Bulgáire"
+  },
+  "BHD": {
+    "name": "Dinar Bhairéin"
+  },
+  "BIF": {
+    "name": "Franc na Burúine"
+  },
+  "BMD": {
+    "name": "Dollar Bheirmiúda"
+  },
+  "BND": {
+    "name": "Dollar Bhrúiné"
+  },
+  "BOB": {
+    "name": "Boliviano"
+  },
+  "BRL": {
+    "name": "Real na Brasaíle"
+  },
+  "BSD": {
+    "name": "Dollar na mBahámaí"
+  },
+  "BTN": {
+    "name": "Ngultrum na Bútáine"
+  },
+  "BWP": {
+    "name": "Pula na Botsuáine"
+  },
+  "BYN": {
+    "name": "Rúbal na Bealarúise"
+  },
+  "BZD": {
+    "name": "Dollar na Beilíse"
+  },
+  "CAD": {
+    "name": "Dollar Cheanada"
+  },
+  "CDF": {
+    "name": "Franc an Chongó"
+  },
+  "CHF": {
+    "name": "Franc na hEilvéise"
+  },
+  "CLP": {
+    "name": "Peso na Sile"
+  },
+  "CNY": {
+    "name": "Yuan na Síne"
+  },
+  "COP": {
+    "name": "Peso na Colóime"
+  },
+  "CRC": {
+    "name": "Colón Chósta Ríce"
+  },
+  "CUP": {
+    "name": "Peso Chúba"
+  },
+  "CVE": {
+    "name": "Escudo Rinn Verde"
+  },
+  "CZK": {
+    "name": "Koruna Phoblacht na Seice"
+  },
+  "DJF": {
+    "name": "Franc Djibouti"
+  },
+  "DKK": {
+    "name": "Coróin na Danmhairge"
+  },
+  "DOP": {
+    "name": "Peso na Poblachta Doiminicí"
+  },
+  "DZD": {
+    "name": "Dinar na hAilgéire"
+  },
+  "EGP": {
+    "name": "Punt na hÉigipte"
+  },
+  "ERN": {
+    "name": "Nakfa na hEiritré"
+  },
+  "ETB": {
+    "name": "Birr na hAetóipe"
+  },
+  "EUR": {
+    "name": "Euro"
+  },
+  "FJD": {
+    "name": "Dollar Fhidsí"
+  },
+  "FKP": {
+    "name": "Punt Oileáin Fháclainne"
+  },
+  "GBP": {
+    "name": "Punt Steirling"
+  },
+  "GEL": {
+    "name": "Lari na Seoirsia"
+  },
+  "GHS": {
+    "name": "Cedi Ghána"
+  },
+  "GIP": {
+    "name": "Punt Ghiobráltar"
+  },
+  "GMD": {
+    "name": "Dalasi na Gaimbia"
+  },
+  "GNF": {
+    "name": "Franc na Guine"
+  },
+  "GTQ": {
+    "name": "Quetzal Ghuatamala"
+  },
+  "GYD": {
+    "name": "Dollar na Guáine"
+  },
+  "HKD": {
+    "name": "Dollar Hong Cong"
+  },
+  "HNL": {
+    "name": "Lempira Hondúras"
+  },
+  "HTG": {
+    "name": "Gourde Háítí"
+  },
+  "HUF": {
+    "name": "Forint na hUngáire"
+  },
+  "IDR": {
+    "name": "Rupiah na hIndinéise"
+  },
+  "ILS": {
+    "name": "Seiceal Nua Iosrael"
+  },
+  "INR": {
+    "name": "Rúipí na hIndia"
+  },
+  "IQD": {
+    "name": "Dinar na hIaráice"
+  },
+  "IRR": {
+    "name": "Rial na hIaráine"
+  },
+  "ISK": {
+    "name": "Króna na hÍoslainne"
+  },
+  "JMD": {
+    "name": "Dollar na hIamáice"
+  },
+  "JOD": {
+    "name": "Dinar na hIordáine"
+  },
+  "JPY": {
+    "name": "Yen na Seapáine"
+  },
+  "KES": {
+    "name": "Scilling na Céinia"
+  },
+  "KGS": {
+    "name": "Som na Cirgeastáine"
+  },
+  "KHR": {
+    "name": "Riel na Cambóide"
+  },
+  "KMF": {
+    "name": "Franc Oileáin Chomóra"
+  },
+  "KPW": {
+    "name": "Won na Cóiré Thuaidh"
+  },
+  "KRW": {
+    "name": "Won na Cóiré Theas"
+  },
+  "KWD": {
+    "name": "Dinar Chuáit"
+  },
+  "KYD": {
+    "name": "Dollar Oileáin Cayman"
+  },
+  "KZT": {
+    "name": "Tenge na Casacstáine"
+  },
+  "LAK": {
+    "name": "Kip Laos"
+  },
+  "LBP": {
+    "name": "Punt na Liobáine"
+  },
+  "LKR": {
+    "name": "Rúipí Shrí Lanca"
+  },
+  "LRD": {
+    "name": "Dollar na Libéire"
+  },
+  "LSL": {
+    "name": "Loti Leosóta"
+  },
+  "LYD": {
+    "name": "Dinar na Libia"
+  },
+  "MAD": {
+    "name": "Dirham Mharacó"
+  },
+  "MDL": {
+    "name": "Leu na Moldóive"
+  },
+  "MGA": {
+    "name": "Ariary Mhadagascar"
+  },
+  "MKD": {
+    "name": "Denar na Macadóine"
+  },
+  "MMK": {
+    "name": "Kyat Mhaenmar"
+  },
+  "MNT": {
+    "name": "Tugrik na Mongóile"
+  },
+  "MOP": {
+    "name": "Pataca Mhacao"
+  },
+  "MRU": {
+    "name": "Ouguiya na Máratáine"
+  },
+  "MUR": {
+    "name": "Rúipí Oileán Mhuirís"
+  },
+  "MVR": {
+    "name": "Rufiyaa Oileáin Mhaildíve"
+  },
+  "MWK": {
+    "name": "Kwacha na Maláive"
+  },
+  "MXN": {
+    "name": "Peso Mheicsiceo"
+  },
+  "MYR": {
+    "name": "Ringgit na Malaeisia"
+  },
+  "MZN": {
+    "name": "Metical Mhósaimbíc"
+  },
+  "NAD": {
+    "name": "Dollar na Namaibe"
+  },
+  "NGN": {
+    "name": "Naira na Nigéire"
+  },
+  "NIO": {
+    "name": "Córdoba Nicearagua"
+  },
+  "NOK": {
+    "name": "Coróin na hIorua"
+  },
+  "NPR": {
+    "name": "Rúipí Neipeal"
+  },
+  "NZD": {
+    "name": "Dollar na Nua-Shéalainne"
+  },
+  "OMR": {
+    "name": "Rial Óman"
+  },
+  "PAB": {
+    "name": "Balboa Phanama"
+  },
+  "PEN": {
+    "name": "Sol Pheiriú"
+  },
+  "PGK": {
+    "name": "Kina Nua-Ghuine Phapua"
+  },
+  "PHP": {
+    "name": "Peso na nOileán Filipíneach"
+  },
+  "PKR": {
+    "name": "Rúipí na Pacastáine"
+  },
+  "PLN": {
+    "name": "Zloty na Polainne"
+  },
+  "PYG": {
+    "name": "Guaraní Pharagua"
+  },
+  "QAR": {
+    "name": "Riyal Chatar"
+  },
+  "RON": {
+    "name": "Leu na Rómáine"
+  },
+  "RSD": {
+    "name": "Dinar na Seirbia"
+  },
+  "RUB": {
+    "name": "Rúbal na Rúise"
+  },
+  "RWF": {
+    "name": "Franc Ruanda"
+  },
+  "SAR": {
+    "name": "Riyal na hAraibe Sádaí"
+  },
+  "SBD": {
+    "name": "Dollar Oileáin Sholomón"
+  },
+  "SCR": {
+    "name": "Rúipí na Séiséal"
+  },
+  "SDG": {
+    "name": "Punt na Súdáine"
+  },
+  "SEK": {
+    "name": "Coróin na Sualainne"
+  },
+  "SGD": {
+    "name": "Dollar Shingeapór"
+  },
+  "SHP": {
+    "name": "Punt San Héilin"
+  },
+  "SLE": {
+    "name": "Leone Shiarra Leon"
+  },
+  "SOS": {
+    "name": "Scilling na Somáile"
+  },
+  "SRD": {
+    "name": "Dollar Shuranam"
+  },
+  "STN": {
+    "name": "Dobra São Tomé agus Príncipe"
+  },
+  "SVC": {
+    "name": "Colón na Salvadóire"
+  },
+  "SYP": {
+    "name": "Punt na Siria"
+  },
+  "SZL": {
+    "name": "Lilangeni na Suasalainne"
+  },
+  "THB": {
+    "name": "Baht na Téalainne"
+  },
+  "TJS": {
+    "name": "Somoni na Táidsíceastáine"
+  },
+  "TMT": {
+    "name": "Manat na Tuircméanastáine"
+  },
+  "TND": {
+    "name": "Dinar na Túinéise"
+  },
+  "TOP": {
+    "name": "Paʻanga Thonga"
+  },
+  "TRY": {
+    "name": "Lira na Tuirce"
+  },
+  "TTD": {
+    "name": "Dollar Oileán na Tríonóide agus Tobága"
+  },
+  "TWD": {
+    "name": "Dollar Nua na Téaváine"
+  },
+  "TZS": {
+    "name": "Scilling na Tansáine"
+  },
+  "UAH": {
+    "name": "Hryvnia na hÚcráine"
+  },
+  "UGX": {
+    "name": "Scilling Uganda"
+  },
+  "USD": {
+    "name": "Dollar S.A.M."
+  },
+  "UYU": {
+    "name": "Peso Uragua"
+  },
+  "UZS": {
+    "name": "Sum na hÚisbéiceastáine"
+  },
+  "VES": {
+    "name": "Bolívar Veiniséala"
+  },
+  "VND": {
+    "name": "Dong Vítneam"
+  },
+  "VUV": {
+    "name": "Vatu Vanuatú"
+  },
+  "WST": {
+    "name": "Tala Shamó"
+  },
+  "XAF": {
+    "name": "Franc CFA na hAfraice Láir"
+  },
+  "XCD": {
+    "name": "Dollar na Cairibe Thoir"
+  },
+  "XOF": {
+    "name": "Franc CFA Iarthar na hAfraice"
+  },
+  "XPF": {
+    "name": "Franc CFP"
+  },
+  "YER": {
+    "name": "Rial Éimin"
+  },
+  "ZAR": {
+    "name": "Rand na hAfraice Theas"
+  },
+  "ZMW": {
+    "name": "Kwacha na Saimbia"
+  },
+  "ZWL": {
+    "name": "Dollar na Siombáibe (2009)"
+  }
+}

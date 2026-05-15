@@ -1,0 +1,458 @@
+{
+  "AED": {
+    "name": "Dirham ya Falme za Kiarabu"
+  },
+  "AFN": {
+    "name": "Afghani ya Afghanistan"
+  },
+  "ALL": {
+    "name": "Lek ya Albania"
+  },
+  "AMD": {
+    "name": "Dram ya Armenia"
+  },
+  "ANG": {
+    "name": "Guilder ya Antili za Kiholanzi"
+  },
+  "AOA": {
+    "name": "Kwanza ya Angola"
+  },
+  "ARS": {
+    "name": "Peso ya Ajentina"
+  },
+  "AUD": {
+    "name": "Dola ya Australia"
+  },
+  "AWG": {
+    "name": "Florin ya Aruba"
+  },
+  "AZN": {
+    "name": "Manat ya Azerbaijan"
+  },
+  "BAM": {
+    "name": "Convertible Mark ya Bosnia na Hezegovina"
+  },
+  "BBD": {
+    "name": "Dola ya Barbados"
+  },
+  "BDT": {
+    "name": "Taka ya Bangladesh"
+  },
+  "BGN": {
+    "name": "Lev ya Bulgaria"
+  },
+  "BHD": {
+    "name": "Dinari ya Bahareni"
+  },
+  "BIF": {
+    "name": "Faranga ya Burundi"
+  },
+  "BMD": {
+    "name": "Dola ya Bermuda"
+  },
+  "BND": {
+    "name": "Dola ya Brunei"
+  },
+  "BOB": {
+    "name": "Boliviano ya Bolivia"
+  },
+  "BRL": {
+    "name": "Real ya Brazil"
+  },
+  "BSD": {
+    "name": "Dola ya Bahamas"
+  },
+  "BTN": {
+    "name": "Ngultrum ya Bhutan"
+  },
+  "BWP": {
+    "name": "Pula ya Botswana"
+  },
+  "BYN": {
+    "name": "Ruble ya Belarus"
+  },
+  "BZD": {
+    "name": "Dola ya Belize"
+  },
+  "CAD": {
+    "name": "Dola ya Canada"
+  },
+  "CDF": {
+    "name": "Faranga ya Kongo"
+  },
+  "CHF": {
+    "name": "Faranga ya Uswisi"
+  },
+  "CLP": {
+    "name": "Peso ya Chile"
+  },
+  "CNY": {
+    "name": "Yuan ya Uchina"
+  },
+  "COP": {
+    "name": "Peso ya Kolombia"
+  },
+  "CRC": {
+    "name": "Colon ya Kostarika"
+  },
+  "CUP": {
+    "name": "Peso ya Kuba"
+  },
+  "CVE": {
+    "name": "Eskudo ya Cape Verde"
+  },
+  "CZK": {
+    "name": "Koruna ya Jamhuri ya Czech"
+  },
+  "DJF": {
+    "name": "Faranga ya Jibuti"
+  },
+  "DKK": {
+    "name": "Krone ya Denmark"
+  },
+  "DOP": {
+    "name": "Peso ya Dominika"
+  },
+  "DZD": {
+    "name": "Dinar ya Aljeria"
+  },
+  "EGP": {
+    "name": "Pauni ya Misri"
+  },
+  "ERN": {
+    "name": "Nakfa ya Eritrea"
+  },
+  "ETB": {
+    "name": "Birr ya Uhabeshi"
+  },
+  "EUR": {
+    "name": "Yuro"
+  },
+  "FJD": {
+    "name": "Dola ya Fiji"
+  },
+  "FKP": {
+    "name": "Pauni ya Visiwa vya Falkland"
+  },
+  "GBP": {
+    "name": "Pauni ya Uingereza"
+  },
+  "GEL": {
+    "name": "Lari ya Jojia"
+  },
+  "GHS": {
+    "name": "Cedi ya Ghana"
+  },
+  "GIP": {
+    "name": "Pauni ya Gibraltar"
+  },
+  "GMD": {
+    "name": "Dalasi ya Gambia"
+  },
+  "GNF": {
+    "name": "Faranga ya Guinea"
+  },
+  "GTQ": {
+    "name": "Quetzal ya Guatemala"
+  },
+  "GYD": {
+    "name": "Dola ya Guyana"
+  },
+  "HKD": {
+    "name": "Dola ya Hong Kong"
+  },
+  "HNL": {
+    "name": "Lempira ya Hondurasi"
+  },
+  "HTG": {
+    "name": "Gourde ya Haiti"
+  },
+  "HUF": {
+    "name": "Forint ya Hungaria"
+  },
+  "IDR": {
+    "name": "Rupiah ya Indonesia"
+  },
+  "ILS": {
+    "name": "Shekeli Mpya ya Israel"
+  },
+  "INR": {
+    "name": "Rupia ya India"
+  },
+  "IQD": {
+    "name": "Dinari ya Iraki"
+  },
+  "IRR": {
+    "name": "Rial ya Iran"
+  },
+  "ISK": {
+    "name": "Krona ya Aisilandi"
+  },
+  "JMD": {
+    "name": "Dola ya Jamaika"
+  },
+  "JOD": {
+    "name": "Dinari ya Jordan"
+  },
+  "JPY": {
+    "name": "Yen ya Japani"
+  },
+  "KES": {
+    "name": "Shilingi ya Kenya"
+  },
+  "KGS": {
+    "name": "Som ya Kyrgystan"
+  },
+  "KHR": {
+    "name": "Riel ya Kambodia"
+  },
+  "KMF": {
+    "name": "Faranga ya Komoro"
+  },
+  "KPW": {
+    "name": "Won ya Korea Kaskazini"
+  },
+  "KRW": {
+    "name": "Won ya Korea Kusini"
+  },
+  "KWD": {
+    "name": "Dinari ya Kuwait"
+  },
+  "KYD": {
+    "name": "Dola ya Visiwa vya Cayman"
+  },
+  "KZT": {
+    "name": "Tenge ya Kazakhstan"
+  },
+  "LAK": {
+    "name": "Kip ya Laosi"
+  },
+  "LBP": {
+    "name": "Pauni ya Lebanon"
+  },
+  "LKR": {
+    "name": "Rupia ya Sri Lanka"
+  },
+  "LRD": {
+    "name": "Dola ya Liberia"
+  },
+  "LSL": {
+    "name": "Loti ya Lesoto"
+  },
+  "LYD": {
+    "name": "Dinari ya Libya"
+  },
+  "MAD": {
+    "name": "Dirham ya Moroko"
+  },
+  "MDL": {
+    "name": "Leu ya Moldova"
+  },
+  "MGA": {
+    "name": "Ariari ya Madagaska"
+  },
+  "MKD": {
+    "name": "Denar ya Masedonia"
+  },
+  "MMK": {
+    "name": "Kyat ya Myanmar"
+  },
+  "MNT": {
+    "name": "Tugrik ya Mongolia"
+  },
+  "MOP": {
+    "name": "Pataca ya Macau"
+  },
+  "MRU": {
+    "name": "Ouguiya ya Moritania"
+  },
+  "MUR": {
+    "name": "Rupia ya Morisi"
+  },
+  "MVR": {
+    "name": "Rufiyaa ya Maldives"
+  },
+  "MWK": {
+    "name": "Kwacha ya Malawi"
+  },
+  "MXN": {
+    "name": "Peso ya Meksiko"
+  },
+  "MYR": {
+    "name": "Ringgit ya Malaysia"
+  },
+  "MZN": {
+    "name": "Metikali ya Msumbiji"
+  },
+  "NAD": {
+    "name": "Dola ya Namibia"
+  },
+  "NGN": {
+    "name": "Naira ya Nigeria"
+  },
+  "NIO": {
+    "name": "Cordoba ya Nikaragwa"
+  },
+  "NOK": {
+    "name": "Krone ya Norwe"
+  },
+  "NPR": {
+    "name": "Rupia ya Nepal"
+  },
+  "NZD": {
+    "name": "Dola ya Nyuzilandi"
+  },
+  "OMR": {
+    "name": "Rial ya Omani"
+  },
+  "PAB": {
+    "name": "Balboa ya Panama"
+  },
+  "PEN": {
+    "name": "Sol ya Peru"
+  },
+  "PGK": {
+    "name": "Kina ya Papua New Guinea"
+  },
+  "PHP": {
+    "name": "Peso ya Ufilipino"
+  },
+  "PKR": {
+    "name": "Rupia ya Pakistan"
+  },
+  "PLN": {
+    "name": "Zloty ya Poland"
+  },
+  "PYG": {
+    "name": "Guarani ya Paragwai"
+  },
+  "QAR": {
+    "name": "Rial ya Qatar"
+  },
+  "RON": {
+    "name": "Leu ya Romania"
+  },
+  "RSD": {
+    "name": "Dinar ya Serbia"
+  },
+  "RUB": {
+    "name": "Ruble ya Urusi"
+  },
+  "RWF": {
+    "name": "Faranga ya Rwanda"
+  },
+  "SAR": {
+    "name": "Riyal ya Saudia"
+  },
+  "SBD": {
+    "name": "Dola ya Visiwa vya Solomon"
+  },
+  "SCR": {
+    "name": "Rupia ya Ushelisheli"
+  },
+  "SDG": {
+    "name": "Pauni ya Sudan"
+  },
+  "SEK": {
+    "name": "Krona ya Uswidi"
+  },
+  "SGD": {
+    "name": "Dola ya Singapore"
+  },
+  "SHP": {
+    "name": "Pauni ya St. Helena"
+  },
+  "SLE": {
+    "name": "Leone ya Siera Leoni"
+  },
+  "SOS": {
+    "name": "Shilingi ya Somalia"
+  },
+  "SRD": {
+    "name": "Dola ya Suriname"
+  },
+  "STN": {
+    "name": "Dobra ya Sao Tome na Principe"
+  },
+  "SYP": {
+    "name": "Pauni ya Syria"
+  },
+  "SZL": {
+    "name": "Lilangeni ya Uswazi"
+  },
+  "THB": {
+    "name": "Baht ya Tailandi"
+  },
+  "TJS": {
+    "name": "Somoni ya Tajikistan"
+  },
+  "TMT": {
+    "name": "Manat ya Turkmenistan"
+  },
+  "TND": {
+    "name": "Dinari ya Tunisia"
+  },
+  "TOP": {
+    "name": "Paʻanga ya Tonga"
+  },
+  "TRY": {
+    "name": "Lira ya Uturuki"
+  },
+  "TTD": {
+    "name": "Dola ya Trinidad na Tobago"
+  },
+  "TWD": {
+    "name": "Dola ya Taiwan"
+  },
+  "TZS": {
+    "name": "Shilingi ya Tanzania"
+  },
+  "UAH": {
+    "name": "Hryvnia ya Ukraine"
+  },
+  "UGX": {
+    "name": "Shilingi ya Uganda"
+  },
+  "USD": {
+    "name": "Dola ya Marekani"
+  },
+  "UYU": {
+    "name": "Peso ya Urugwai"
+  },
+  "UZS": {
+    "name": "Som ya Uzbekistan"
+  },
+  "VES": {
+    "name": "Bolivar ya Venezuela"
+  },
+  "VND": {
+    "name": "Dong ya Vietnam"
+  },
+  "VUV": {
+    "name": "Vatu ya Vanuatu"
+  },
+  "WST": {
+    "name": "Tala ya Samoa"
+  },
+  "XAF": {
+    "name": "Faranga ya Afrika ya Kati CFA"
+  },
+  "XCD": {
+    "name": "Dola ya Karibi Mashariki"
+  },
+  "XOF": {
+    "name": "Faranga ya Afrika Magharibi CFA"
+  },
+  "XPF": {
+    "name": "Faranga ya CFP"
+  },
+  "YER": {
+    "name": "Rial ya Yemen"
+  },
+  "ZAR": {
+    "name": "Randi ya Afrika Kusini"
+  },
+  "ZMW": {
+    "name": "Kwacha ya Zambia"
+  }
+}

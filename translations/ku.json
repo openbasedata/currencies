@@ -1,0 +1,464 @@
+{
+  "AED": {
+    "name": "dîrhemê mîrgehên erebî yên yekbûyî"
+  },
+  "AFN": {
+    "name": "efxanîyê efxanistanî"
+  },
+  "ALL": {
+    "name": "lekê arnawidî"
+  },
+  "AMD": {
+    "name": "dramê ermenî"
+  },
+  "ANG": {
+    "name": "guldenê antîlê yê holandî"
+  },
+  "AOA": {
+    "name": "kwanzayê angolayî"
+  },
+  "ARS": {
+    "name": "pesoyê arjantînî"
+  },
+  "AUD": {
+    "name": "dolarê awistralyayî"
+  },
+  "AWG": {
+    "name": "florînê arubayî"
+  },
+  "AZN": {
+    "name": "manatê azerbeycanî"
+  },
+  "BAM": {
+    "name": "markê konvertibl ê bosna hersekî"
+  },
+  "BBD": {
+    "name": "dolarê barbadosî"
+  },
+  "BDT": {
+    "name": "takayê bengladeşî"
+  },
+  "BGN": {
+    "name": "levê bulgarî"
+  },
+  "BHD": {
+    "name": "dînarê behreynê"
+  },
+  "BIF": {
+    "name": "frankê birûndîyî"
+  },
+  "BMD": {
+    "name": "dolarê bermûdayî"
+  },
+  "BND": {
+    "name": "dolarê brûneyî"
+  },
+  "BOB": {
+    "name": "bolîvyanoyê bolîvyayî"
+  },
+  "BRL": {
+    "name": "realê brezîlyayî"
+  },
+  "BSD": {
+    "name": "dolarê bahamayî"
+  },
+  "BTN": {
+    "name": "ngultrumê bûtanî"
+  },
+  "BWP": {
+    "name": "pulayê botswanayî"
+  },
+  "BYN": {
+    "name": "rubleyê belarûsî"
+  },
+  "BZD": {
+    "name": "dolarê belîzeyî"
+  },
+  "CAD": {
+    "name": "dolarê kanadayî"
+  },
+  "CDF": {
+    "name": "frankê kongoyî"
+  },
+  "CHF": {
+    "name": "frankê swîsrî"
+  },
+  "CLP": {
+    "name": "pesoyê şîlîyî"
+  },
+  "CNY": {
+    "name": "yûanê çînî"
+  },
+  "COP": {
+    "name": "pesoyê kolombîyayî"
+  },
+  "CRC": {
+    "name": "kolonê kosta rîkayî"
+  },
+  "CUP": {
+    "name": "pesoyê kubayî"
+  },
+  "CVE": {
+    "name": "eskudoyê kape verdeyî"
+  },
+  "CZK": {
+    "name": "kronê çekî"
+  },
+  "DJF": {
+    "name": "frankê cîbûtîyî"
+  },
+  "DKK": {
+    "name": "kronê danîmarkî"
+  },
+  "DOP": {
+    "name": "pesoyê domînîkî"
+  },
+  "DZD": {
+    "name": "dînarê cezayîrî"
+  },
+  "EGP": {
+    "name": "lîreyê misirî"
+  },
+  "ERN": {
+    "name": "nakfayê erîtreyî"
+  },
+  "ETB": {
+    "name": "bîrê etyopyayî"
+  },
+  "EUR": {
+    "name": "ewro"
+  },
+  "FJD": {
+    "name": "dolarê fîjîyî"
+  },
+  "FKP": {
+    "name": "paundê giravên falklandî"
+  },
+  "GBP": {
+    "name": "sterlînê brîtanî"
+  },
+  "GEL": {
+    "name": "larîyê gurcistanî"
+  },
+  "GHS": {
+    "name": "cedîyê ganayî"
+  },
+  "GIP": {
+    "name": "lîreyê cebelîtariqî"
+  },
+  "GMD": {
+    "name": "dalasîyê gambîyayî"
+  },
+  "GNF": {
+    "name": "frankê gîneyî"
+  },
+  "GTQ": {
+    "name": "quertzalê guatemalayî"
+  },
+  "GYD": {
+    "name": "dolarê guayanayî"
+  },
+  "HKD": {
+    "name": "dolarê hong kongî"
+  },
+  "HNL": {
+    "name": "lempîrayê hondurasî"
+  },
+  "HTG": {
+    "name": "gûrdeyê haîtîyî"
+  },
+  "HUF": {
+    "name": "forîntê macarî"
+  },
+  "IDR": {
+    "name": "rûpîyê endonezî"
+  },
+  "ILS": {
+    "name": "şekelê nû yê îsraîlî"
+  },
+  "INR": {
+    "name": "rûpîyê hindistanî"
+  },
+  "IQD": {
+    "name": "dînarê îraqî"
+  },
+  "IRR": {
+    "name": "rîyalê îranî"
+  },
+  "ISK": {
+    "name": "kronê îslandayî"
+  },
+  "JMD": {
+    "name": "dolarê jamaîkayî"
+  },
+  "JOD": {
+    "name": "dînarê urdunî"
+  },
+  "JPY": {
+    "name": "yenê japonî"
+  },
+  "KES": {
+    "name": "şîlîngê kenyayî"
+  },
+  "KGS": {
+    "name": "somê qirxizistanî"
+  },
+  "KHR": {
+    "name": "rîelê kamboçyayî"
+  },
+  "KMF": {
+    "name": "frankê komoranî"
+  },
+  "KPW": {
+    "name": "wonê koreya bakurî"
+  },
+  "KRW": {
+    "name": "wonê koreya başûrî"
+  },
+  "KWD": {
+    "name": "dînarê kuweytî"
+  },
+  "KYD": {
+    "name": "dolarê giravên keymanî"
+  },
+  "KZT": {
+    "name": "tengeyê qazaxistanî"
+  },
+  "LAK": {
+    "name": "kîpê laosî"
+  },
+  "LBP": {
+    "name": "lîreyê libnanî"
+  },
+  "LKR": {
+    "name": "rûpîyê srî lankayî"
+  },
+  "LRD": {
+    "name": "dolarê lîberyayî"
+  },
+  "LSL": {
+    "name": "lotîyê lesothoyî"
+  },
+  "LYD": {
+    "name": "dînarê lîbyayî"
+  },
+  "MAD": {
+    "name": "dîrhemê fasî"
+  },
+  "MDL": {
+    "name": "leyê moldovayî"
+  },
+  "MGA": {
+    "name": "arîarîyê madagaskarî"
+  },
+  "MKD": {
+    "name": "dînarê makedonî"
+  },
+  "MMK": {
+    "name": "kyatê myanmarî"
+  },
+  "MNT": {
+    "name": "togrokê moxolî"
+  },
+  "MOP": {
+    "name": "patakayê makaoyî"
+  },
+  "MRU": {
+    "name": "ouguîayê morîtanyayî"
+  },
+  "MUR": {
+    "name": "rûpîyê maûrîtîûsê"
+  },
+  "MVR": {
+    "name": "rûfîyaayê maldîvayî"
+  },
+  "MWK": {
+    "name": "kwaçayê malawîyê"
+  },
+  "MXN": {
+    "name": "pesoyê meksîkayî"
+  },
+  "MYR": {
+    "name": "ringgitê malezyayî"
+  },
+  "MZN": {
+    "name": "metîkalê mozambîkî"
+  },
+  "NAD": {
+    "name": "dolarê namîbyayî"
+  },
+  "NGN": {
+    "name": "naîrayê nîjeryayî"
+  },
+  "NIO": {
+    "name": "kordobayê nîkaraguayî"
+  },
+  "NOK": {
+    "name": "kronê norweçî"
+  },
+  "NPR": {
+    "name": "rûpîyê nepalî"
+  },
+  "NZD": {
+    "name": "dolarê zelandayî"
+  },
+  "OMR": {
+    "name": "rîyalê umanî"
+  },
+  "PAB": {
+    "name": "balboayê panamayî"
+  },
+  "PEN": {
+    "name": "solê perûyî"
+  },
+  "PGK": {
+    "name": "kînayê gîneya nû ya papûayî"
+  },
+  "PHP": {
+    "name": "pesoyê fîlîpînî"
+  },
+  "PKR": {
+    "name": "rûpîyê pakistanî"
+  },
+  "PLN": {
+    "name": "zlotîyê polonyayî"
+  },
+  "PYG": {
+    "name": "gûaranîyê paragûayî"
+  },
+  "QAR": {
+    "name": "rîyalê qeterî"
+  },
+  "RON": {
+    "name": "leyê romanyayî"
+  },
+  "RSD": {
+    "name": "dînarê sirbî"
+  },
+  "RUB": {
+    "name": "rubleyê rûsî"
+  },
+  "RWF": {
+    "name": "frankê rwandayî"
+  },
+  "SAR": {
+    "name": "rîyalê siûdî"
+  },
+  "SBD": {
+    "name": "dolarê giravên solomonî"
+  },
+  "SCR": {
+    "name": "rûpîyê seyşelerî"
+  },
+  "SDG": {
+    "name": "lîreyê sûdanî"
+  },
+  "SEK": {
+    "name": "kronê swêdî"
+  },
+  "SGD": {
+    "name": "dolarê sîngapurî"
+  },
+  "SHP": {
+    "name": "lîreyê saînt helenayî"
+  },
+  "SLE": {
+    "name": "leoneyê sîera leoneyî"
+  },
+  "SOS": {
+    "name": "şîlîngê somalî"
+  },
+  "SRD": {
+    "name": "dolarê surînamî"
+  },
+  "STN": {
+    "name": "dobrayê sao tome û principeyî"
+  },
+  "SVC": {
+    "name": "kolonê el salvadorî"
+  },
+  "SYP": {
+    "name": "lîreyê sûrî"
+  },
+  "SZL": {
+    "name": "lîlangenîyê swazîlî"
+  },
+  "THB": {
+    "name": "bahtê taylandî"
+  },
+  "TJS": {
+    "name": "somonê tacikistanî"
+  },
+  "TMT": {
+    "name": "manatê tirkmenî"
+  },
+  "TND": {
+    "name": "dînarê tûnisî"
+  },
+  "TOP": {
+    "name": "paʻangayê tonganî"
+  },
+  "TRY": {
+    "name": "lîreyê tirkî"
+  },
+  "TTD": {
+    "name": "dolarê trinidad û tobagoyî"
+  },
+  "TWD": {
+    "name": "dolarê taywanî"
+  },
+  "TZS": {
+    "name": "şîlîngê tanzanî"
+  },
+  "UAH": {
+    "name": "grîvnayê ûkraynî"
+  },
+  "UGX": {
+    "name": "şîlîngê ûgandayî"
+  },
+  "USD": {
+    "name": "dolarê amerîkî"
+  },
+  "UYU": {
+    "name": "pesoyê ûrûgûayî"
+  },
+  "UZS": {
+    "name": "somê ozbekî"
+  },
+  "VES": {
+    "name": "bolîvarê venezuelayî"
+  },
+  "VND": {
+    "name": "dongê vîetnamî"
+  },
+  "VUV": {
+    "name": "vatûyê vanûatûyî"
+  },
+  "WST": {
+    "name": "talayê somonî"
+  },
+  "XAF": {
+    "name": "frenkê CFA yê afrîkaya navîn"
+  },
+  "XCD": {
+    "name": "dolarê karayîba rojhilatî"
+  },
+  "XOF": {
+    "name": "frankê CFA yê afrîkaya başûrî"
+  },
+  "XPF": {
+    "name": "frankê CFPî"
+  },
+  "YER": {
+    "name": "rîyalê yemenî"
+  },
+  "ZAR": {
+    "name": "randê afrîkaya başûrî"
+  },
+  "ZMW": {
+    "name": "kwaçayê zambîyayî"
+  },
+  "ZWL": {
+    "name": "dolarê zîmbabweyî (2009–2024)"
+  }
+}

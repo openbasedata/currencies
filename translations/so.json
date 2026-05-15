@@ -1,0 +1,458 @@
+{
+  "AED": {
+    "name": "Dirhamka Isutaga Imaaraatka Carabta"
+  },
+  "AFN": {
+    "name": "Afgan Afgani"
+  },
+  "ALL": {
+    "name": "Lekta Albaniya"
+  },
+  "AMD": {
+    "name": "Daraamka Armeniya"
+  },
+  "ANG": {
+    "name": "Galdarka Nadarlaan Antiliyaan"
+  },
+  "AOA": {
+    "name": "Kawansada Angola"
+  },
+  "ARS": {
+    "name": "Beesada Arjentiin"
+  },
+  "AUD": {
+    "name": "Doolarka Astaraaliya"
+  },
+  "AWG": {
+    "name": "Foloorinta Aruban"
+  },
+  "AZN": {
+    "name": "Manaata Asarbeyjan"
+  },
+  "BAM": {
+    "name": "Konfatibal Maakta Bosnia-Hersogofina"
+  },
+  "BBD": {
+    "name": "Doolarka Barbaadiyaan"
+  },
+  "BDT": {
+    "name": "Taka Bangledesh"
+  },
+  "BGN": {
+    "name": "Lefta Bulgariya"
+  },
+  "BHD": {
+    "name": "Dinaarka Baxreyn"
+  },
+  "BIF": {
+    "name": "Faranka Burundi"
+  },
+  "BMD": {
+    "name": "Doolarka Barmuuda"
+  },
+  "BND": {
+    "name": "Doolarka Buruney"
+  },
+  "BOB": {
+    "name": "Bolifiyanada Bolifiya"
+  },
+  "BRL": {
+    "name": "Realka Barasil"
+  },
+  "BSD": {
+    "name": "Doolarka Bahamaas"
+  },
+  "BTN": {
+    "name": "Nugultaramta Butan"
+  },
+  "BWP": {
+    "name": "Buulada Botswana"
+  },
+  "BYN": {
+    "name": "Rubalka Belarus"
+  },
+  "BZD": {
+    "name": "Doolarka Beelisa"
+  },
+  "CAD": {
+    "name": "Doolarka Kanada"
+  },
+  "CDF": {
+    "name": "Faranka Kongo"
+  },
+  "CHF": {
+    "name": "Faranka Iswiska"
+  },
+  "CLP": {
+    "name": "Beesada Jili"
+  },
+  "CNY": {
+    "name": "Yuwanta Shiinaha"
+  },
+  "COP": {
+    "name": "Beesada Kolombiya"
+  },
+  "CRC": {
+    "name": "Kolonka Kosta Riika"
+  },
+  "CUP": {
+    "name": "Beesada Kuuba"
+  },
+  "CVE": {
+    "name": "Eskudo Keyb Farde"
+  },
+  "CZK": {
+    "name": "Korunada Jeek"
+  },
+  "DJF": {
+    "name": "Faran Jabuuti"
+  },
+  "DKK": {
+    "name": "Koronka Danishka"
+  },
+  "DOP": {
+    "name": "Beesada Dominiika"
+  },
+  "DZD": {
+    "name": "Dinaarka Aljeriya"
+  },
+  "EGP": {
+    "name": "Bowndka Masar"
+  },
+  "ERN": {
+    "name": "Nakfada Eritriya"
+  },
+  "ETB": {
+    "name": "Birta Itoobbiya"
+  },
+  "EUR": {
+    "name": "Yuuroo"
+  },
+  "FJD": {
+    "name": "Doolarka Fiji"
+  },
+  "FKP": {
+    "name": "Bowndka Faalklaan Aylaanis"
+  },
+  "GBP": {
+    "name": "Bowndka Biritishka"
+  },
+  "GEL": {
+    "name": "Laariga Joorjiya"
+  },
+  "GHS": {
+    "name": "Sedida Gana"
+  },
+  "GIP": {
+    "name": "Bowndka Gibraltar"
+  },
+  "GMD": {
+    "name": "Dalasida Gambiya"
+  },
+  "GNF": {
+    "name": "Faranka Gini"
+  },
+  "GTQ": {
+    "name": "Kuwestalka Guwatemala"
+  },
+  "GYD": {
+    "name": "Doolarka Guyanes"
+  },
+  "HKD": {
+    "name": "Doolarka Hoon Koon"
+  },
+  "HNL": {
+    "name": "Lembirada Honduras"
+  },
+  "HTG": {
+    "name": "Goordada Hiyati"
+  },
+  "HUF": {
+    "name": "Forintiska Hangari"
+  },
+  "IDR": {
+    "name": "Rubiah Indonesiya"
+  },
+  "ILS": {
+    "name": "Niyuu Shekelka Israaiil"
+  },
+  "INR": {
+    "name": "Rubiga Hindiya"
+  },
+  "IQD": {
+    "name": "Dinaarka Ciraaq"
+  },
+  "IRR": {
+    "name": "Riyaalka Iran"
+  },
+  "ISK": {
+    "name": "Koronada Eysland"
+  },
+  "JMD": {
+    "name": "Doolarka Jamayka"
+  },
+  "JOD": {
+    "name": "Dinaarka Urdun"
+  },
+  "JPY": {
+    "name": "Yenta Jabaan"
+  },
+  "KES": {
+    "name": "Shilingka Kenya"
+  },
+  "KGS": {
+    "name": "Somta Kiyrgiystan"
+  },
+  "KHR": {
+    "name": "Riyf kambodiya"
+  },
+  "KMF": {
+    "name": "Faranka Komoros"
+  },
+  "KPW": {
+    "name": "Wonka Waqooyiga Kuuriya"
+  },
+  "KRW": {
+    "name": "Wonka Koonfur Kuuriya"
+  },
+  "KWD": {
+    "name": "Dinaarka Kuweyt"
+  },
+  "KYD": {
+    "name": "Doolarka Kayman Aylaanis"
+  },
+  "KZT": {
+    "name": "Tengeda Kasakhstan"
+  },
+  "LAK": {
+    "name": "Kib Laoti"
+  },
+  "LBP": {
+    "name": "Bowndka Lubnaan"
+  },
+  "LKR": {
+    "name": "Rubiga Siri lanka"
+  },
+  "LRD": {
+    "name": "Doolarka Liberiya"
+  },
+  "LSL": {
+    "name": "Lesotho Loti"
+  },
+  "LYD": {
+    "name": "Dinaarka Libya"
+  },
+  "MAD": {
+    "name": "Dirhamka Moroko"
+  },
+  "MDL": {
+    "name": "Leeyuuda Moldofa"
+  },
+  "MGA": {
+    "name": "Arayrida Madagaskar"
+  },
+  "MKD": {
+    "name": "Denaarka Masedoniya"
+  },
+  "MMK": {
+    "name": "Kayatda Mayanmaar"
+  },
+  "MNT": {
+    "name": "Tugrikta Mongoliya"
+  },
+  "MOP": {
+    "name": "Bataka Makana"
+  },
+  "MRU": {
+    "name": "Oogiyada Mawritaaniya"
+  },
+  "MUR": {
+    "name": "Rubiga Mowrishiya"
+  },
+  "MVR": {
+    "name": "Rufiyada Maldifiya"
+  },
+  "MWK": {
+    "name": "Kawajada Malawi"
+  },
+  "MXN": {
+    "name": "Beesada Meksiko"
+  },
+  "MYR": {
+    "name": "Ringitda Malayshiya"
+  },
+  "MZN": {
+    "name": "Metikalka Mosambik"
+  },
+  "NAD": {
+    "name": "Doolarka Namibiya"
+  },
+  "NGN": {
+    "name": "Nairada Neyjeeriya"
+  },
+  "NIO": {
+    "name": "Kordobada Nikargow"
+  },
+  "NOK": {
+    "name": "Koronka Norway"
+  },
+  "NPR": {
+    "name": "Rubiga Nebal"
+  },
+  "NZD": {
+    "name": "Doolarka Niyuu Siyalaan"
+  },
+  "OMR": {
+    "name": "Riyaalka Cumaan"
+  },
+  "PAB": {
+    "name": "Balbow Banama"
+  },
+  "PEN": {
+    "name": "Solsha Beeru"
+  },
+  "PGK": {
+    "name": "Kinada Babua Niyuu Gini"
+  },
+  "PHP": {
+    "name": "Biso Filibin"
+  },
+  "PKR": {
+    "name": "Rubiga Bakistan"
+  },
+  "PLN": {
+    "name": "Solotida Bolaan"
+  },
+  "PYG": {
+    "name": "Guranida Baraguway"
+  },
+  "QAR": {
+    "name": "Riyaalka Qatar"
+  },
+  "RON": {
+    "name": "Liyuuda Romaniya"
+  },
+  "RSD": {
+    "name": "Dinaarka Serbiya"
+  },
+  "RUB": {
+    "name": "Rubalka Ruushka"
+  },
+  "RWF": {
+    "name": "Faranka Ruwanda"
+  },
+  "SAR": {
+    "name": "Riyaalka Sacuudiga"
+  },
+  "SBD": {
+    "name": "Doolarka Solomon Aylaanis"
+  },
+  "SCR": {
+    "name": "Rubiga Siisalis"
+  },
+  "SDG": {
+    "name": "Bowndka Suudaan"
+  },
+  "SEK": {
+    "name": "Koronka Isweden"
+  },
+  "SGD": {
+    "name": "Doolarka Singabuur"
+  },
+  "SHP": {
+    "name": "Bowndka St Helen"
+  },
+  "SLE": {
+    "name": "Leonka Sira Leon"
+  },
+  "SOS": {
+    "name": "Shilingka Soomaaliya"
+  },
+  "SRD": {
+    "name": "Doolarka Surinamees"
+  },
+  "STN": {
+    "name": "Dobra Sao Tome & Birinsibi"
+  },
+  "SYP": {
+    "name": "Bowndka Suuriya"
+  },
+  "SZL": {
+    "name": "Lilangeenida iswaasi"
+  },
+  "THB": {
+    "name": "Baatka Taylaan"
+  },
+  "TJS": {
+    "name": "Somoonida Tajikistan"
+  },
+  "TMT": {
+    "name": "Manaata Turkmenistan"
+  },
+  "TND": {
+    "name": "Dinaarka Tunisiya"
+  },
+  "TOP": {
+    "name": "Ba’angada Tonga"
+  },
+  "TRY": {
+    "name": "Liirada Turkiga"
+  },
+  "TTD": {
+    "name": "Doolarka Tirinidad iyo Tobago"
+  },
+  "TWD": {
+    "name": "Doolarka Taywaanta Cusub"
+  },
+  "TZS": {
+    "name": "Shilingka Tansaaniya"
+  },
+  "UAH": {
+    "name": "Hirfiniyada Yukreeyn"
+  },
+  "UGX": {
+    "name": "Shilingka Yugandha"
+  },
+  "USD": {
+    "name": "Doolarka Mareeykanka"
+  },
+  "UYU": {
+    "name": "Beesada Urugway"
+  },
+  "UZS": {
+    "name": "Somta Usbekistan"
+  },
+  "VES": {
+    "name": "Bolifarada Fenesuwela"
+  },
+  "VND": {
+    "name": "Dongta Fitnaam"
+  },
+  "VUV": {
+    "name": "Fatu Fanuatu"
+  },
+  "WST": {
+    "name": "Tala Samao"
+  },
+  "XAF": {
+    "name": "Faranka CFA ee Bartamaha Afrika"
+  },
+  "XCD": {
+    "name": "Doolarka Iist Kaaribyan"
+  },
+  "XOF": {
+    "name": "Faranka CFA Galbeedka Afrika"
+  },
+  "XPF": {
+    "name": "Faranka CFP"
+  },
+  "YER": {
+    "name": "Riyaalka Yemen"
+  },
+  "ZAR": {
+    "name": "Randka Koonfur Afrika"
+  },
+  "ZMW": {
+    "name": "Kawajada Sambiya"
+  }
+}

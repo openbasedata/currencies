@@ -1,0 +1,464 @@
+{
+  "AED": {
+    "name": "dirham Združenih arabskih emiratov"
+  },
+  "AFN": {
+    "name": "afgani"
+  },
+  "ALL": {
+    "name": "albanski lek"
+  },
+  "AMD": {
+    "name": "armenski dram"
+  },
+  "ANG": {
+    "name": "nizozemsko-antilski gulden"
+  },
+  "AOA": {
+    "name": "angolska kvanza"
+  },
+  "ARS": {
+    "name": "argentinski peso"
+  },
+  "AUD": {
+    "name": "avstralski dolar"
+  },
+  "AWG": {
+    "name": "arubski florin"
+  },
+  "AZN": {
+    "name": "azerbajdžanski manat"
+  },
+  "BAM": {
+    "name": "bosansko-hercegovska konvertibilna marka"
+  },
+  "BBD": {
+    "name": "barbadoški dolar"
+  },
+  "BDT": {
+    "name": "bangladeška taka"
+  },
+  "BGN": {
+    "name": "bolgarski lev"
+  },
+  "BHD": {
+    "name": "bahrajnski dinar"
+  },
+  "BIF": {
+    "name": "burundski frank"
+  },
+  "BMD": {
+    "name": "bermudski dolar"
+  },
+  "BND": {
+    "name": "brunejski dolar"
+  },
+  "BOB": {
+    "name": "bolivijski boliviano"
+  },
+  "BRL": {
+    "name": "brazilski real"
+  },
+  "BSD": {
+    "name": "bahamski dolar"
+  },
+  "BTN": {
+    "name": "butanski ngultrum"
+  },
+  "BWP": {
+    "name": "bocvanska pula"
+  },
+  "BYN": {
+    "name": "beloruski rubelj"
+  },
+  "BZD": {
+    "name": "belizejski dolar"
+  },
+  "CAD": {
+    "name": "kanadski dolar"
+  },
+  "CDF": {
+    "name": "kongovski frank"
+  },
+  "CHF": {
+    "name": "švicarski frank"
+  },
+  "CLP": {
+    "name": "čilski peso"
+  },
+  "CNY": {
+    "name": "kitajski juan"
+  },
+  "COP": {
+    "name": "kolumbijski peso"
+  },
+  "CRC": {
+    "name": "kostariški kolon"
+  },
+  "CUP": {
+    "name": "kubanski peso"
+  },
+  "CVE": {
+    "name": "zelenortski eskudo"
+  },
+  "CZK": {
+    "name": "češka krona"
+  },
+  "DJF": {
+    "name": "džibutski frank"
+  },
+  "DKK": {
+    "name": "danska krona"
+  },
+  "DOP": {
+    "name": "dominikanski peso"
+  },
+  "DZD": {
+    "name": "alžirski dinar"
+  },
+  "EGP": {
+    "name": "egiptovski funt"
+  },
+  "ERN": {
+    "name": "eritrejska nakfa"
+  },
+  "ETB": {
+    "name": "etiopski bir"
+  },
+  "EUR": {
+    "name": "evro"
+  },
+  "FJD": {
+    "name": "fidžijski dolar"
+  },
+  "FKP": {
+    "name": "falklandski funt"
+  },
+  "GBP": {
+    "name": "britanski funt"
+  },
+  "GEL": {
+    "name": "gruzijski lari"
+  },
+  "GHS": {
+    "name": "ganski cedi"
+  },
+  "GIP": {
+    "name": "gibraltarski funt"
+  },
+  "GMD": {
+    "name": "gambijski dalasi"
+  },
+  "GNF": {
+    "name": "gvinejski frank"
+  },
+  "GTQ": {
+    "name": "gvatemalski kecal"
+  },
+  "GYD": {
+    "name": "gvajanski dolar"
+  },
+  "HKD": {
+    "name": "hongkonški dolar"
+  },
+  "HNL": {
+    "name": "honduraška lempira"
+  },
+  "HTG": {
+    "name": "haitijski gurd"
+  },
+  "HUF": {
+    "name": "madžarski forint"
+  },
+  "IDR": {
+    "name": "indonezijska rupija"
+  },
+  "ILS": {
+    "name": "izraelski šekel"
+  },
+  "INR": {
+    "name": "indijska rupija"
+  },
+  "IQD": {
+    "name": "iraški dinar"
+  },
+  "IRR": {
+    "name": "iranski rial"
+  },
+  "ISK": {
+    "name": "islandska krona"
+  },
+  "JMD": {
+    "name": "jamajški dolar"
+  },
+  "JOD": {
+    "name": "jordanski dinar"
+  },
+  "JPY": {
+    "name": "japonski jen"
+  },
+  "KES": {
+    "name": "kenijski šiling"
+  },
+  "KGS": {
+    "name": "kirgiški som"
+  },
+  "KHR": {
+    "name": "kamboški riel"
+  },
+  "KMF": {
+    "name": "komorski frank"
+  },
+  "KPW": {
+    "name": "severnokorejski von"
+  },
+  "KRW": {
+    "name": "južnokorejski von"
+  },
+  "KWD": {
+    "name": "kuvajtski dinar"
+  },
+  "KYD": {
+    "name": "kajmanski dolar"
+  },
+  "KZT": {
+    "name": "kazahstanski tenge"
+  },
+  "LAK": {
+    "name": "laoški kip"
+  },
+  "LBP": {
+    "name": "libanonski funt"
+  },
+  "LKR": {
+    "name": "šrilanška rupija"
+  },
+  "LRD": {
+    "name": "liberijski dolar"
+  },
+  "LSL": {
+    "name": "lesotski loti"
+  },
+  "LYD": {
+    "name": "libijski dinar"
+  },
+  "MAD": {
+    "name": "maroški dirham"
+  },
+  "MDL": {
+    "name": "moldavski lev"
+  },
+  "MGA": {
+    "name": "madagaskarski ariari"
+  },
+  "MKD": {
+    "name": "makedonski denar"
+  },
+  "MMK": {
+    "name": "mjanmarski kjat"
+  },
+  "MNT": {
+    "name": "mongolski tugrik"
+  },
+  "MOP": {
+    "name": "macajska pataka"
+  },
+  "MRU": {
+    "name": "mavretanska uguija"
+  },
+  "MUR": {
+    "name": "mavricijska rupija"
+  },
+  "MVR": {
+    "name": "maldivska rufija"
+  },
+  "MWK": {
+    "name": "malavijska kvača"
+  },
+  "MXN": {
+    "name": "mehiški peso"
+  },
+  "MYR": {
+    "name": "malezijski ringit"
+  },
+  "MZN": {
+    "name": "mozambiški metikal"
+  },
+  "NAD": {
+    "name": "namibijski dolar"
+  },
+  "NGN": {
+    "name": "nigerijska naira"
+  },
+  "NIO": {
+    "name": "nikaragovska kordova"
+  },
+  "NOK": {
+    "name": "norveška krona"
+  },
+  "NPR": {
+    "name": "nepalska rupija"
+  },
+  "NZD": {
+    "name": "novozelandski dolar"
+  },
+  "OMR": {
+    "name": "omanski rial"
+  },
+  "PAB": {
+    "name": "panamska balboa"
+  },
+  "PEN": {
+    "name": "perujski sol"
+  },
+  "PGK": {
+    "name": "kina Papue Nove Gvineje"
+  },
+  "PHP": {
+    "name": "filipinski peso"
+  },
+  "PKR": {
+    "name": "pakistanska rupija"
+  },
+  "PLN": {
+    "name": "poljski zlot"
+  },
+  "PYG": {
+    "name": "paragvajski gvarani"
+  },
+  "QAR": {
+    "name": "katarski rial"
+  },
+  "RON": {
+    "name": "romunski lev"
+  },
+  "RSD": {
+    "name": "srbski dinar"
+  },
+  "RUB": {
+    "name": "ruski rubelj"
+  },
+  "RWF": {
+    "name": "ruandski frank"
+  },
+  "SAR": {
+    "name": "saudski rial"
+  },
+  "SBD": {
+    "name": "solomonski dolar"
+  },
+  "SCR": {
+    "name": "sejšelska rupija"
+  },
+  "SDG": {
+    "name": "sudanski funt"
+  },
+  "SEK": {
+    "name": "švedska krona"
+  },
+  "SGD": {
+    "name": "singapurski dolar"
+  },
+  "SHP": {
+    "name": "funt Sv. Helene"
+  },
+  "SLE": {
+    "name": "sierraleonski leone"
+  },
+  "SOS": {
+    "name": "somalski šiling"
+  },
+  "SRD": {
+    "name": "surinamski dolar"
+  },
+  "STN": {
+    "name": "dobra Svetega Tomaža in Princa"
+  },
+  "SVC": {
+    "name": "salvadorski kolon"
+  },
+  "SYP": {
+    "name": "sirijski funt"
+  },
+  "SZL": {
+    "name": "esvatinski lilangeni"
+  },
+  "THB": {
+    "name": "tajski baht"
+  },
+  "TJS": {
+    "name": "tadžikistanski somoni"
+  },
+  "TMT": {
+    "name": "turkmenistanski manat"
+  },
+  "TND": {
+    "name": "tunizijski dinar"
+  },
+  "TOP": {
+    "name": "tongovska paanga"
+  },
+  "TRY": {
+    "name": "turška lira"
+  },
+  "TTD": {
+    "name": "dolar Trinidada in Tobaga"
+  },
+  "TWD": {
+    "name": "novi tajvanski dolar"
+  },
+  "TZS": {
+    "name": "tanzanijski šiling"
+  },
+  "UAH": {
+    "name": "ukrajinska grivna"
+  },
+  "UGX": {
+    "name": "ugandski šiling"
+  },
+  "USD": {
+    "name": "ameriški dolar"
+  },
+  "UYU": {
+    "name": "urugvajski peso"
+  },
+  "UZS": {
+    "name": "uzbeški sum"
+  },
+  "VES": {
+    "name": "venezuelski bolivar"
+  },
+  "VND": {
+    "name": "vietnamski dong"
+  },
+  "VUV": {
+    "name": "vanuatujski vatu"
+  },
+  "WST": {
+    "name": "samoanska tala"
+  },
+  "XAF": {
+    "name": "srednjeafriški frank CFA"
+  },
+  "XCD": {
+    "name": "vzhodnokaribski dolar"
+  },
+  "XOF": {
+    "name": "zahodnoafriški frank CFA"
+  },
+  "XPF": {
+    "name": "frank CFP"
+  },
+  "YER": {
+    "name": "jemenski rial"
+  },
+  "ZAR": {
+    "name": "južnoafriški rand"
+  },
+  "ZMW": {
+    "name": "zambijska kvača"
+  },
+  "ZWL": {
+    "name": "zimbabvejski dolar (2009)"
+  }
+}

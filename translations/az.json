@@ -1,0 +1,464 @@
+{
+  "AED": {
+    "name": "Birləşmiş Ərəb Əmirlikləri Dirhəmi"
+  },
+  "AFN": {
+    "name": "Əfqanıstan Əfqanisi"
+  },
+  "ALL": {
+    "name": "Albaniya Leki"
+  },
+  "AMD": {
+    "name": "Ermənistan Dramı"
+  },
+  "ANG": {
+    "name": "Niderland Antilyası Gilderi"
+  },
+  "AOA": {
+    "name": "Anqola Kvanzası"
+  },
+  "ARS": {
+    "name": "Argentina Pesosu"
+  },
+  "AUD": {
+    "name": "Avstraliya Dolları"
+  },
+  "AWG": {
+    "name": "Aruba Florini"
+  },
+  "AZN": {
+    "name": "Azərbaycan Manatı"
+  },
+  "BAM": {
+    "name": "Bosniya-Herseqovina Markası"
+  },
+  "BBD": {
+    "name": "Barbados Dolları"
+  },
+  "BDT": {
+    "name": "Banqladeş Takası"
+  },
+  "BGN": {
+    "name": "Bolqarıstan Levi"
+  },
+  "BHD": {
+    "name": "Bəhreyn Dinarı"
+  },
+  "BIF": {
+    "name": "Burundi Frankı"
+  },
+  "BMD": {
+    "name": "Bermuda Dolları"
+  },
+  "BND": {
+    "name": "Bruney Dolları"
+  },
+  "BOB": {
+    "name": "Boliviya Bolivianosu"
+  },
+  "BRL": {
+    "name": "Braziliya Realı"
+  },
+  "BSD": {
+    "name": "Baham Dolları"
+  },
+  "BTN": {
+    "name": "Butan Nqultrumu"
+  },
+  "BWP": {
+    "name": "Botsvana Pulası"
+  },
+  "BYN": {
+    "name": "Belarus Rublu"
+  },
+  "BZD": {
+    "name": "Beliz Dolları"
+  },
+  "CAD": {
+    "name": "Kanada Dolları"
+  },
+  "CDF": {
+    "name": "Konqo Frankı"
+  },
+  "CHF": {
+    "name": "İsveçrə Frankı"
+  },
+  "CLP": {
+    "name": "Çili Pesosu"
+  },
+  "CNY": {
+    "name": "Çin Yuanı"
+  },
+  "COP": {
+    "name": "Kolumbiya Pesosu"
+  },
+  "CRC": {
+    "name": "Kosta Rika Kolonu"
+  },
+  "CUP": {
+    "name": "Kuba Pesosu"
+  },
+  "CVE": {
+    "name": "Kape Verde Eskudosu"
+  },
+  "CZK": {
+    "name": "Çexiya Korunası"
+  },
+  "DJF": {
+    "name": "Cibuti Frankı"
+  },
+  "DKK": {
+    "name": "Danimarka Kronu"
+  },
+  "DOP": {
+    "name": "Dominika Pesosu"
+  },
+  "DZD": {
+    "name": "Əlcəzair Dinarı"
+  },
+  "EGP": {
+    "name": "Misir Funtu"
+  },
+  "ERN": {
+    "name": "Eritreya Nakfası"
+  },
+  "ETB": {
+    "name": "Efiopiya Bırrı"
+  },
+  "EUR": {
+    "name": "Avro"
+  },
+  "FJD": {
+    "name": "Fici Dolları"
+  },
+  "FKP": {
+    "name": "Folklend Adaları Funtu"
+  },
+  "GBP": {
+    "name": "Britaniya Funtu"
+  },
+  "GEL": {
+    "name": "Gürcüstan Larisi"
+  },
+  "GHS": {
+    "name": "Qana Sedisi"
+  },
+  "GIP": {
+    "name": "Cəbəli-Tariq Funtu"
+  },
+  "GMD": {
+    "name": "Qambiya Dalasisi"
+  },
+  "GNF": {
+    "name": "Qvineya Frankı"
+  },
+  "GTQ": {
+    "name": "Qvatemala Küetzalı"
+  },
+  "GYD": {
+    "name": "Qayana Dolları"
+  },
+  "HKD": {
+    "name": "Honq Konq Dolları"
+  },
+  "HNL": {
+    "name": "Honduras Lempirası"
+  },
+  "HTG": {
+    "name": "Haiti Qourdu"
+  },
+  "HUF": {
+    "name": "Macarıstan Forinti"
+  },
+  "IDR": {
+    "name": "İndoneziya Rupisi"
+  },
+  "ILS": {
+    "name": "İsrail Yeni Şekeli"
+  },
+  "INR": {
+    "name": "Hindistan Rupisi"
+  },
+  "IQD": {
+    "name": "İraq Dinarı"
+  },
+  "IRR": {
+    "name": "İran Rialı"
+  },
+  "ISK": {
+    "name": "İslandiya Kronu"
+  },
+  "JMD": {
+    "name": "Yamayka Dolları"
+  },
+  "JOD": {
+    "name": "İordaniya Dinarı"
+  },
+  "JPY": {
+    "name": "Yaponiya Yeni"
+  },
+  "KES": {
+    "name": "Keniya Şillinqi"
+  },
+  "KGS": {
+    "name": "Qırğızıstan Somu"
+  },
+  "KHR": {
+    "name": "Kamboca Rieli"
+  },
+  "KMF": {
+    "name": "Komor Frankı"
+  },
+  "KPW": {
+    "name": "Şimali Koreya Vonu"
+  },
+  "KRW": {
+    "name": "Cənubi Koreya Vonu"
+  },
+  "KWD": {
+    "name": "Küveyt Dinarı"
+  },
+  "KYD": {
+    "name": "Kayman Adaları Dolları"
+  },
+  "KZT": {
+    "name": "Qazaxıstan Tengesi"
+  },
+  "LAK": {
+    "name": "Laos Kipi"
+  },
+  "LBP": {
+    "name": "Livan Funtu"
+  },
+  "LKR": {
+    "name": "Şri Lanka Rupisi"
+  },
+  "LRD": {
+    "name": "Liberiya Dolları"
+  },
+  "LSL": {
+    "name": "Lesoto Lotisi"
+  },
+  "LYD": {
+    "name": "Liviya Dinarı"
+  },
+  "MAD": {
+    "name": "Mərakeş Dirhəmi"
+  },
+  "MDL": {
+    "name": "Moldova Leyi"
+  },
+  "MGA": {
+    "name": "Madaqaskar Ariarisi"
+  },
+  "MKD": {
+    "name": "Makedoniya Dinarı"
+  },
+  "MMK": {
+    "name": "Myanma Kiyatı"
+  },
+  "MNT": {
+    "name": "Monqoliya Tuqriki"
+  },
+  "MOP": {
+    "name": "Makao Patakası"
+  },
+  "MRU": {
+    "name": "Mavritaniya Ugiyası"
+  },
+  "MUR": {
+    "name": "Mavriki Rupisi"
+  },
+  "MVR": {
+    "name": "Maldiv Rufiyası"
+  },
+  "MWK": {
+    "name": "Malavi Kvaçası"
+  },
+  "MXN": {
+    "name": "Meksika Pesosu"
+  },
+  "MYR": {
+    "name": "Malayziya Ringiti"
+  },
+  "MZN": {
+    "name": "Mozambik Metikalı"
+  },
+  "NAD": {
+    "name": "Namibiya Dolları"
+  },
+  "NGN": {
+    "name": "Nigeriya Nairası"
+  },
+  "NIO": {
+    "name": "Nikaraqua Kordobası"
+  },
+  "NOK": {
+    "name": "Norveç Kronu"
+  },
+  "NPR": {
+    "name": "Nepal Rupisi"
+  },
+  "NZD": {
+    "name": "Yeni Zelandiya Dolları"
+  },
+  "OMR": {
+    "name": "Oman Rialı"
+  },
+  "PAB": {
+    "name": "Panama Balboası"
+  },
+  "PEN": {
+    "name": "Peru Solu"
+  },
+  "PGK": {
+    "name": "Papua Yeni Qvineya Kinası"
+  },
+  "PHP": {
+    "name": "Filippin Pesosu"
+  },
+  "PKR": {
+    "name": "Pakistan Rupisi"
+  },
+  "PLN": {
+    "name": "Polşa Zlotısı"
+  },
+  "PYG": {
+    "name": "Paraqvay Quaranisi"
+  },
+  "QAR": {
+    "name": "Qatar Rialı"
+  },
+  "RON": {
+    "name": "Rumıniya Leyi"
+  },
+  "RSD": {
+    "name": "Serbiya Dinarı"
+  },
+  "RUB": {
+    "name": "Rusiya Rublu"
+  },
+  "RWF": {
+    "name": "Ruanda Frankı"
+  },
+  "SAR": {
+    "name": "Səudiyyə Riyalı"
+  },
+  "SBD": {
+    "name": "Solomon Adaları Dolları"
+  },
+  "SCR": {
+    "name": "Seyşel Rupisi"
+  },
+  "SDG": {
+    "name": "Sudan Funtu"
+  },
+  "SEK": {
+    "name": "İsveç Kronu"
+  },
+  "SGD": {
+    "name": "Sinqapur Dolları"
+  },
+  "SHP": {
+    "name": "Müqəddəs Yelena Funtu"
+  },
+  "SLE": {
+    "name": "Sierra Leon Leonu"
+  },
+  "SOS": {
+    "name": "Somali Şillinqi"
+  },
+  "SRD": {
+    "name": "Surinam Dolları"
+  },
+  "STN": {
+    "name": "San Tom və Prinsip Dobrası"
+  },
+  "SVC": {
+    "name": "El Salvador kolonu"
+  },
+  "SYP": {
+    "name": "Suriya Funtu"
+  },
+  "SZL": {
+    "name": "Svazilend Lilangenini"
+  },
+  "THB": {
+    "name": "Tayland Batı"
+  },
+  "TJS": {
+    "name": "Tacikistan Somonisi"
+  },
+  "TMT": {
+    "name": "Türkmənistan Manatı"
+  },
+  "TND": {
+    "name": "Tunis Dinarı"
+  },
+  "TOP": {
+    "name": "Tonqa Panqası"
+  },
+  "TRY": {
+    "name": "Türkiyə Lirəsi"
+  },
+  "TTD": {
+    "name": "Trinidad və Tobaqo Dolları"
+  },
+  "TWD": {
+    "name": "Tayvan Yeni Dolları"
+  },
+  "TZS": {
+    "name": "Tanzaniya Şillinqi"
+  },
+  "UAH": {
+    "name": "Ukrayna Qrivnası"
+  },
+  "UGX": {
+    "name": "Uqanda Şillinqi"
+  },
+  "USD": {
+    "name": "ABŞ Dolları"
+  },
+  "UYU": {
+    "name": "Uruqvay Pesosu"
+  },
+  "UZS": {
+    "name": "Özbəkistan Somu"
+  },
+  "VES": {
+    "name": "Venesuela Bolivarı"
+  },
+  "VND": {
+    "name": "Vyetnam Donqu"
+  },
+  "VUV": {
+    "name": "Vanuatu Vatusu"
+  },
+  "WST": {
+    "name": "Samoa Talası"
+  },
+  "XAF": {
+    "name": "Kamerun Frankı"
+  },
+  "XCD": {
+    "name": "Şərqi Karib Dolları"
+  },
+  "XOF": {
+    "name": "Fil Dişi Sahili Frankı"
+  },
+  "XPF": {
+    "name": "Fransız Polineziyası Frankı"
+  },
+  "YER": {
+    "name": "Yəmən Rialı"
+  },
+  "ZAR": {
+    "name": "Cənubi Afrika Randı"
+  },
+  "ZMW": {
+    "name": "Zambiya Kvaçası"
+  },
+  "ZWL": {
+    "name": "Zimbabve Dolları (2009)"
+  }
+}

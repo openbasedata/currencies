@@ -1,0 +1,464 @@
+{
+  "AED": {
+    "name": "Arabiar Emirerri Batuetako dirhama"
+  },
+  "AFN": {
+    "name": "afgani afganiarra"
+  },
+  "ALL": {
+    "name": "lek albaniarra"
+  },
+  "AMD": {
+    "name": "dram armeniarra"
+  },
+  "ANG": {
+    "name": "florin antillarra"
+  },
+  "AOA": {
+    "name": "kwanza angolarra"
+  },
+  "ARS": {
+    "name": "peso argentinarra"
+  },
+  "AUD": {
+    "name": "dolar australiarra"
+  },
+  "AWG": {
+    "name": "florin arubarra"
+  },
+  "AZN": {
+    "name": "manat azerbaijandarra"
+  },
+  "BAM": {
+    "name": "marko bihurgarri bosniarra"
+  },
+  "BBD": {
+    "name": "dolar barbadostarra"
+  },
+  "BDT": {
+    "name": "taka bangladeshtarra"
+  },
+  "BGN": {
+    "name": "lev bulgariarra"
+  },
+  "BHD": {
+    "name": "dinar bahraindarra"
+  },
+  "BIF": {
+    "name": "franko burundiarra"
+  },
+  "BMD": {
+    "name": "dolar bermudarra"
+  },
+  "BND": {
+    "name": "dolar bruneitarra"
+  },
+  "BOB": {
+    "name": "boliviano boliviarra"
+  },
+  "BRL": {
+    "name": "erreal brasildarra"
+  },
+  "BSD": {
+    "name": "dolar bahamarra"
+  },
+  "BTN": {
+    "name": "ngultrum bhutandarra"
+  },
+  "BWP": {
+    "name": "pula botswanarra"
+  },
+  "BYN": {
+    "name": "errublo bielorrusiarra"
+  },
+  "BZD": {
+    "name": "dolar belizetarra"
+  },
+  "CAD": {
+    "name": "dolar kanadarra"
+  },
+  "CDF": {
+    "name": "franko kongoarra"
+  },
+  "CHF": {
+    "name": "franko suitzarra"
+  },
+  "CLP": {
+    "name": "peso txiletarra"
+  },
+  "CNY": {
+    "name": "yuan txinatarra"
+  },
+  "COP": {
+    "name": "peso kolonbiarra"
+  },
+  "CRC": {
+    "name": "colon costarricarra"
+  },
+  "CUP": {
+    "name": "peso kubatarra"
+  },
+  "CVE": {
+    "name": "ezkutu caboverdetarra"
+  },
+  "CZK": {
+    "name": "koroa txekiarra"
+  },
+  "DJF": {
+    "name": "franko djibutiarra"
+  },
+  "DKK": {
+    "name": "koroa danimarkarra"
+  },
+  "DOP": {
+    "name": "peso dominikarra"
+  },
+  "DZD": {
+    "name": "dinar aljeriarra"
+  },
+  "EGP": {
+    "name": "libera egiptoarra"
+  },
+  "ERN": {
+    "name": "nakfa eritrearra"
+  },
+  "ETB": {
+    "name": "birr etiopiarra"
+  },
+  "EUR": {
+    "name": "euroa"
+  },
+  "FJD": {
+    "name": "dolar fijiarra"
+  },
+  "FKP": {
+    "name": "libera falklandarra"
+  },
+  "GBP": {
+    "name": "libera esterlina"
+  },
+  "GEL": {
+    "name": "lari georgiarra"
+  },
+  "GHS": {
+    "name": "cedi ghanatarra"
+  },
+  "GIP": {
+    "name": "libera gibraltartarra"
+  },
+  "GMD": {
+    "name": "dalasi gambiarra"
+  },
+  "GNF": {
+    "name": "franko ginearra"
+  },
+  "GTQ": {
+    "name": "ketzal guatemalarra"
+  },
+  "GYD": {
+    "name": "dolar guyanarra"
+  },
+  "HKD": {
+    "name": "dolar hongkongtarra"
+  },
+  "HNL": {
+    "name": "lempira hodurastarra"
+  },
+  "HTG": {
+    "name": "gourde haitiarra"
+  },
+  "HUF": {
+    "name": "forint hungariarra"
+  },
+  "IDR": {
+    "name": "errupia indonesiarra"
+  },
+  "ILS": {
+    "name": "shekel israeldar berria"
+  },
+  "INR": {
+    "name": "errupia indiarra"
+  },
+  "IQD": {
+    "name": "dinar irakiarra"
+  },
+  "IRR": {
+    "name": "rial irandarra"
+  },
+  "ISK": {
+    "name": "koroa islandiarra"
+  },
+  "JMD": {
+    "name": "dolar jamaikarra"
+  },
+  "JOD": {
+    "name": "dinar jordaniarra"
+  },
+  "JPY": {
+    "name": "yen japoniarra"
+  },
+  "KES": {
+    "name": "txelin kenyarra"
+  },
+  "KGS": {
+    "name": "som kirgizistandarra"
+  },
+  "KHR": {
+    "name": "riel kanbodiarra"
+  },
+  "KMF": {
+    "name": "franko komoretarra"
+  },
+  "KPW": {
+    "name": "won iparkorearra"
+  },
+  "KRW": {
+    "name": "won hegokorearra"
+  },
+  "KWD": {
+    "name": "dinar kuwaitarra"
+  },
+  "KYD": {
+    "name": "dolar kaimandarra"
+  },
+  "KZT": {
+    "name": "tenge kazakhstandarra"
+  },
+  "LAK": {
+    "name": "kip laostarra"
+  },
+  "LBP": {
+    "name": "libera libanoarra"
+  },
+  "LKR": {
+    "name": "errupia srilankarra"
+  },
+  "LRD": {
+    "name": "dolar liberiarra"
+  },
+  "LSL": {
+    "name": "loti lesothoarra"
+  },
+  "LYD": {
+    "name": "dinar libiarra"
+  },
+  "MAD": {
+    "name": "dirham marokoarra"
+  },
+  "MDL": {
+    "name": "leu moldaviarra"
+  },
+  "MGA": {
+    "name": "ariary madagaskartarra"
+  },
+  "MKD": {
+    "name": "dinar mazedoniarra"
+  },
+  "MMK": {
+    "name": "kyat myanmartarra"
+  },
+  "MNT": {
+    "name": "tugrik mongoliarra"
+  },
+  "MOP": {
+    "name": "pataca macauarra"
+  },
+  "MRU": {
+    "name": "uguiya mauritaniarra"
+  },
+  "MUR": {
+    "name": "errupia mauriziarra"
+  },
+  "MVR": {
+    "name": "rufiyaa maldivarra"
+  },
+  "MWK": {
+    "name": "kwacha malawiarra"
+  },
+  "MXN": {
+    "name": "peso mexikarra"
+  },
+  "MYR": {
+    "name": "ringgit malaysiarra"
+  },
+  "MZN": {
+    "name": "metical mozambiketarra"
+  },
+  "NAD": {
+    "name": "dolar namibiarra"
+  },
+  "NGN": {
+    "name": "naira nigeriarra"
+  },
+  "NIO": {
+    "name": "cordoba nikaraguarra"
+  },
+  "NOK": {
+    "name": "koroa norvegiarra"
+  },
+  "NPR": {
+    "name": "errupia nepaldarra"
+  },
+  "NZD": {
+    "name": "dolar zeelandaberritarra"
+  },
+  "OMR": {
+    "name": "rial omandarra"
+  },
+  "PAB": {
+    "name": "balboa panamarra"
+  },
+  "PEN": {
+    "name": "sol perutarra"
+  },
+  "PGK": {
+    "name": "kina gineaberriarra"
+  },
+  "PHP": {
+    "name": "peso filipinarra"
+  },
+  "PKR": {
+    "name": "errupia pakistandarra"
+  },
+  "PLN": {
+    "name": "zloty poloniarra"
+  },
+  "PYG": {
+    "name": "guarani paraguaitarra"
+  },
+  "QAR": {
+    "name": "riyal qatartarra"
+  },
+  "RON": {
+    "name": "leu errumaniarra"
+  },
+  "RSD": {
+    "name": "dinar serbiarra"
+  },
+  "RUB": {
+    "name": "errublo errusiarra"
+  },
+  "RWF": {
+    "name": "franko ruandarra"
+  },
+  "SAR": {
+    "name": "riyal saudiarabiarra"
+  },
+  "SBD": {
+    "name": "dolar salomondarra"
+  },
+  "SCR": {
+    "name": "errupia seychelletarra"
+  },
+  "SDG": {
+    "name": "libera sudandarra"
+  },
+  "SEK": {
+    "name": "koroa suediarra"
+  },
+  "SGD": {
+    "name": "dolar singapurtarra"
+  },
+  "SHP": {
+    "name": "Santa Helenako libera"
+  },
+  "SLE": {
+    "name": "leone sierraleonar berria"
+  },
+  "SOS": {
+    "name": "txelin somaliarra"
+  },
+  "SRD": {
+    "name": "dolar surinamdarra"
+  },
+  "STN": {
+    "name": "dobra saotometarra"
+  },
+  "SVC": {
+    "name": "kolon salvadortarra"
+  },
+  "SYP": {
+    "name": "libera siriarra"
+  },
+  "SZL": {
+    "name": "lilangeni swazilandiarra"
+  },
+  "THB": {
+    "name": "baht thailandiarra"
+  },
+  "TJS": {
+    "name": "somoni tajikistandarra"
+  },
+  "TMT": {
+    "name": "manat turkmenistandarra"
+  },
+  "TND": {
+    "name": "dinar tunisiarra"
+  },
+  "TOP": {
+    "name": "paʻanga tongatarra"
+  },
+  "TRY": {
+    "name": "lira turkiarra"
+  },
+  "TTD": {
+    "name": "dolar trinitatearra"
+  },
+  "TWD": {
+    "name": "dolar taiwandar berria"
+  },
+  "TZS": {
+    "name": "txelin tanzaniarra"
+  },
+  "UAH": {
+    "name": "hryvnia ukrainarra"
+  },
+  "UGX": {
+    "name": "txelin ugandarra"
+  },
+  "USD": {
+    "name": "dolar estatubatuarra"
+  },
+  "UYU": {
+    "name": "peso uruguaitarra"
+  },
+  "UZS": {
+    "name": "sum uzbekistandarra"
+  },
+  "VES": {
+    "name": "bolivar venezuelarra"
+  },
+  "VND": {
+    "name": "dong vietnamdarra"
+  },
+  "VUV": {
+    "name": "vatu vanuatuarra"
+  },
+  "WST": {
+    "name": "tala samoarra"
+  },
+  "XAF": {
+    "name": "Afrika erdialdeko CFA frankoa"
+  },
+  "XCD": {
+    "name": "dolar ekikaribearra"
+  },
+  "XOF": {
+    "name": "Afrika mendebaldeko CFA frankoa"
+  },
+  "XPF": {
+    "name": "CFP frankoa"
+  },
+  "YER": {
+    "name": "rial yemendarra"
+  },
+  "ZAR": {
+    "name": "rand hegoafrikarra"
+  },
+  "ZMW": {
+    "name": "kwacha zambiarra"
+  },
+  "ZWL": {
+    "name": "dolar zimbabwetarra (2009)"
+  }
+}
