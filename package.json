@@ -1,0 +1,49 @@
+{
+  "name": "@openbasedata/currencies",
+  "version": "1.0.0",
+  "description": "Open base data for world currencies",
+  "keywords": [
+    "currency",
+    "currencies",
+    "data",
+    "i18n",
+    "iso",
+    "iso-4217",
+    "locale",
+    "localization",
+    "money",
+    "translation",
+    "translations",
+    "world"
+  ],
+  "homepage": "https://github.com/openbasedata/currencies#readme",
+  "bugs": {
+    "url": "https://github.com/openbasedata/currencies/issues"
+  },
+  "license": "AGPL-3.0",
+  "author": {
+    "name": "openbasedata",
+    "url": "https://github.com/openbasedata"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/openbasedata/currencies.git"
+  },
+  "funding": {
+    "type": "github",
+    "url": "https://github.com/sponsors/openbasedata"
+  },
+  "files": [
+    "data.json",
+    "translations"
+  ],
+  "main": "data.json",
+  "scripts": {
+    "format": "oxfmt .",
+    "format:check": "oxfmt --check ."
+  },
+  "devDependencies": {
+    "@guoyunhe/oxfmt-config": "^1.1.0",
+    "oxfmt": "^0.48.0"
+  }
+}
