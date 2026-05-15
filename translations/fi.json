@@ -1,0 +1,464 @@
+{
+  "AED": {
+    "name": "Arabiemiirikuntien dirhami"
+  },
+  "AFN": {
+    "name": "Afganistanin afgaani"
+  },
+  "ALL": {
+    "name": "Albanian lek"
+  },
+  "AMD": {
+    "name": "Armenian dram"
+  },
+  "ANG": {
+    "name": "Alankomaiden Antillien guldeni"
+  },
+  "AOA": {
+    "name": "Angolan kwanza"
+  },
+  "ARS": {
+    "name": "Argentiinan peso"
+  },
+  "AUD": {
+    "name": "Australian dollari"
+  },
+  "AWG": {
+    "name": "Aruban floriini"
+  },
+  "AZN": {
+    "name": "Azerbaidžanin manat"
+  },
+  "BAM": {
+    "name": "Bosnia-Hertsegovinan vaihdettava markka"
+  },
+  "BBD": {
+    "name": "Barbadosin dollari"
+  },
+  "BDT": {
+    "name": "Bangladeshin taka"
+  },
+  "BGN": {
+    "name": "Bulgarian lev"
+  },
+  "BHD": {
+    "name": "Bahrainin dinaari"
+  },
+  "BIF": {
+    "name": "Burundin frangi"
+  },
+  "BMD": {
+    "name": "Bermudan dollari"
+  },
+  "BND": {
+    "name": "Brunein dollari"
+  },
+  "BOB": {
+    "name": "Bolivian boliviano"
+  },
+  "BRL": {
+    "name": "Brasilian real"
+  },
+  "BSD": {
+    "name": "Bahaman dollari"
+  },
+  "BTN": {
+    "name": "Bhutanin ngultrum"
+  },
+  "BWP": {
+    "name": "Botswanan pula"
+  },
+  "BYN": {
+    "name": "Valko-Venäjän rupla"
+  },
+  "BZD": {
+    "name": "Belizen dollari"
+  },
+  "CAD": {
+    "name": "Kanadan dollari"
+  },
+  "CDF": {
+    "name": "Kongon frangi"
+  },
+  "CHF": {
+    "name": "Sveitsin frangi"
+  },
+  "CLP": {
+    "name": "Chilen peso"
+  },
+  "CNY": {
+    "name": "Kiinan juan"
+  },
+  "COP": {
+    "name": "Kolumbian peso"
+  },
+  "CRC": {
+    "name": "Costa Rican colón"
+  },
+  "CUP": {
+    "name": "Kuuban peso"
+  },
+  "CVE": {
+    "name": "Kap Verden escudo"
+  },
+  "CZK": {
+    "name": "Tšekin koruna"
+  },
+  "DJF": {
+    "name": "Djiboutin frangi"
+  },
+  "DKK": {
+    "name": "Tanskan kruunu"
+  },
+  "DOP": {
+    "name": "Dominikaanisen tasavallan peso"
+  },
+  "DZD": {
+    "name": "Algerian dinaari"
+  },
+  "EGP": {
+    "name": "Egyptin punta"
+  },
+  "ERN": {
+    "name": "Eritrean nakfa"
+  },
+  "ETB": {
+    "name": "Etiopian birr"
+  },
+  "EUR": {
+    "name": "euro"
+  },
+  "FJD": {
+    "name": "Fidžin dollari"
+  },
+  "FKP": {
+    "name": "Falklandinsaarten punta"
+  },
+  "GBP": {
+    "name": "Englannin punta"
+  },
+  "GEL": {
+    "name": "Georgian lari"
+  },
+  "GHS": {
+    "name": "Ghanan cedi"
+  },
+  "GIP": {
+    "name": "Gibraltarin punta"
+  },
+  "GMD": {
+    "name": "Gambian dalasi"
+  },
+  "GNF": {
+    "name": "Guinean frangi"
+  },
+  "GTQ": {
+    "name": "Guatemalan quetzal"
+  },
+  "GYD": {
+    "name": "Guyanan dollari"
+  },
+  "HKD": {
+    "name": "Hongkongin dollari"
+  },
+  "HNL": {
+    "name": "Hondurasin lempira"
+  },
+  "HTG": {
+    "name": "Haitin gourde"
+  },
+  "HUF": {
+    "name": "Unkarin forintti"
+  },
+  "IDR": {
+    "name": "Indonesian rupia"
+  },
+  "ILS": {
+    "name": "Israelin uusi sekeli"
+  },
+  "INR": {
+    "name": "Intian rupia"
+  },
+  "IQD": {
+    "name": "Irakin dinaari"
+  },
+  "IRR": {
+    "name": "Iranin rial"
+  },
+  "ISK": {
+    "name": "Islannin kruunu"
+  },
+  "JMD": {
+    "name": "Jamaikan dollari"
+  },
+  "JOD": {
+    "name": "Jordanian dinaari"
+  },
+  "JPY": {
+    "name": "Japanin jeni"
+  },
+  "KES": {
+    "name": "Kenian šillinki"
+  },
+  "KGS": {
+    "name": "Kirgisian som"
+  },
+  "KHR": {
+    "name": "Kambodžan riel"
+  },
+  "KMF": {
+    "name": "Komorien frangi"
+  },
+  "KPW": {
+    "name": "Pohjois-Korean won"
+  },
+  "KRW": {
+    "name": "Etelä-Korean won"
+  },
+  "KWD": {
+    "name": "Kuwaitin dinaari"
+  },
+  "KYD": {
+    "name": "Caymansaarten dollari"
+  },
+  "KZT": {
+    "name": "Kazakstanin tenge"
+  },
+  "LAK": {
+    "name": "Laosin kip"
+  },
+  "LBP": {
+    "name": "Libanonin punta"
+  },
+  "LKR": {
+    "name": "Sri Lankan rupia"
+  },
+  "LRD": {
+    "name": "Liberian dollari"
+  },
+  "LSL": {
+    "name": "Lesothon loti"
+  },
+  "LYD": {
+    "name": "Libyan dinaari"
+  },
+  "MAD": {
+    "name": "Marokon dirhami"
+  },
+  "MDL": {
+    "name": "Moldovan leu"
+  },
+  "MGA": {
+    "name": "Madagaskarin ariary"
+  },
+  "MKD": {
+    "name": "Makedonian denaari"
+  },
+  "MMK": {
+    "name": "Myanmarin kyat"
+  },
+  "MNT": {
+    "name": "Mongolian tugrik"
+  },
+  "MOP": {
+    "name": "Macaon pataca"
+  },
+  "MRU": {
+    "name": "Mauritanian ouguiya"
+  },
+  "MUR": {
+    "name": "Mauritiuksen rupia"
+  },
+  "MVR": {
+    "name": "Malediivien rufiyaa"
+  },
+  "MWK": {
+    "name": "Malawin kwacha"
+  },
+  "MXN": {
+    "name": "Meksikon peso"
+  },
+  "MYR": {
+    "name": "Malesian ringgit"
+  },
+  "MZN": {
+    "name": "Mosambikin metical"
+  },
+  "NAD": {
+    "name": "Namibian dollari"
+  },
+  "NGN": {
+    "name": "Nigerian naira"
+  },
+  "NIO": {
+    "name": "Nicaraguan córdoba"
+  },
+  "NOK": {
+    "name": "Norjan kruunu"
+  },
+  "NPR": {
+    "name": "Nepalin rupia"
+  },
+  "NZD": {
+    "name": "Uuden-Seelannin dollari"
+  },
+  "OMR": {
+    "name": "Omanin rial"
+  },
+  "PAB": {
+    "name": "Panaman balboa"
+  },
+  "PEN": {
+    "name": "Perun sol"
+  },
+  "PGK": {
+    "name": "Papua-Uuden-Guinean kina"
+  },
+  "PHP": {
+    "name": "Filippiinien peso"
+  },
+  "PKR": {
+    "name": "Pakistanin rupia"
+  },
+  "PLN": {
+    "name": "Puolan złoty"
+  },
+  "PYG": {
+    "name": "Paraguayn guarani"
+  },
+  "QAR": {
+    "name": "Qatarin rial"
+  },
+  "RON": {
+    "name": "Romanian leu"
+  },
+  "RSD": {
+    "name": "Serbian dinaari"
+  },
+  "RUB": {
+    "name": "Venäjän rupla"
+  },
+  "RWF": {
+    "name": "Ruandan frangi"
+  },
+  "SAR": {
+    "name": "Saudi-Arabian rial"
+  },
+  "SBD": {
+    "name": "Salomonsaarten dollari"
+  },
+  "SCR": {
+    "name": "Seychellien rupia"
+  },
+  "SDG": {
+    "name": "Sudanin punta"
+  },
+  "SEK": {
+    "name": "Ruotsin kruunu"
+  },
+  "SGD": {
+    "name": "Singaporen dollari"
+  },
+  "SHP": {
+    "name": "Saint Helenan punta"
+  },
+  "SLE": {
+    "name": "Sierra Leonen leone"
+  },
+  "SOS": {
+    "name": "Somalian šillinki"
+  },
+  "SRD": {
+    "name": "Surinamen dollari"
+  },
+  "STN": {
+    "name": "São Tomén ja Príncipen dobra"
+  },
+  "SVC": {
+    "name": "El Salvadorin colón"
+  },
+  "SYP": {
+    "name": "Syyrian punta"
+  },
+  "SZL": {
+    "name": "Swazimaan lilangeni"
+  },
+  "THB": {
+    "name": "Thaimaan baht"
+  },
+  "TJS": {
+    "name": "Tadžikistanin somoni"
+  },
+  "TMT": {
+    "name": "Turkmenistanin manat"
+  },
+  "TND": {
+    "name": "Tunisian dinaari"
+  },
+  "TOP": {
+    "name": "Tongan pa’anga"
+  },
+  "TRY": {
+    "name": "Turkin liira"
+  },
+  "TTD": {
+    "name": "Trinidadin ja Tobagon dollari"
+  },
+  "TWD": {
+    "name": "Taiwanin uusi dollari"
+  },
+  "TZS": {
+    "name": "Tansanian šillinki"
+  },
+  "UAH": {
+    "name": "Ukrainan hryvnia"
+  },
+  "UGX": {
+    "name": "Ugandan šillinki"
+  },
+  "USD": {
+    "name": "Yhdysvaltain dollari"
+  },
+  "UYU": {
+    "name": "Uruguayn peso"
+  },
+  "UZS": {
+    "name": "Uzbekistanin som"
+  },
+  "VES": {
+    "name": "Venezuelan suvereeni bolívar"
+  },
+  "VND": {
+    "name": "Vietnamin dong"
+  },
+  "VUV": {
+    "name": "Vanuatun vatu"
+  },
+  "WST": {
+    "name": "Samoan tala"
+  },
+  "XAF": {
+    "name": "CFA-frangi BEAC"
+  },
+  "XCD": {
+    "name": "Itä-Karibian dollari"
+  },
+  "XOF": {
+    "name": "CFA-frangi BCEAO"
+  },
+  "XPF": {
+    "name": "CFP-frangi"
+  },
+  "YER": {
+    "name": "Jemenin rial"
+  },
+  "ZAR": {
+    "name": "Etelä-Afrikan randi"
+  },
+  "ZMW": {
+    "name": "Sambian kwacha"
+  },
+  "ZWL": {
+    "name": "Zimbabwen dollari (2009)"
+  }
+}

@@ -1,0 +1,464 @@
+{
+  "AED": {
+    "name": "Dirham Yr Emiradau Arabaidd Unedig"
+  },
+  "AFN": {
+    "name": "Afghani Afghanistan"
+  },
+  "ALL": {
+    "name": "Lek Albania"
+  },
+  "AMD": {
+    "name": "Dram Armenia"
+  },
+  "ANG": {
+    "name": "Guilder Antilles yr Iseldiroedd"
+  },
+  "AOA": {
+    "name": "Kwanza Angola"
+  },
+  "ARS": {
+    "name": "Peso yr Ariannin"
+  },
+  "AUD": {
+    "name": "Doler Awstralia"
+  },
+  "AWG": {
+    "name": "Fflorin Aruba"
+  },
+  "AZN": {
+    "name": "Manat Azerbaijan"
+  },
+  "BAM": {
+    "name": "Marc Trosadwy Bosnia a Hercegovina"
+  },
+  "BBD": {
+    "name": "Doler Barbados"
+  },
+  "BDT": {
+    "name": "Taka Bangladesh"
+  },
+  "BGN": {
+    "name": "Lev Bwlgaria"
+  },
+  "BHD": {
+    "name": "Dinar Bahrain"
+  },
+  "BIF": {
+    "name": "Ffranc Burundi"
+  },
+  "BMD": {
+    "name": "Doler Bermuda"
+  },
+  "BND": {
+    "name": "Doler Brunei"
+  },
+  "BOB": {
+    "name": "Boliviano Bolifia"
+  },
+  "BRL": {
+    "name": "Real Brasil"
+  },
+  "BSD": {
+    "name": "Doler y Bahamas"
+  },
+  "BTN": {
+    "name": "Ngultrum Bhutan"
+  },
+  "BWP": {
+    "name": "Pula Botswana"
+  },
+  "BYN": {
+    "name": "Rwbl Belarws"
+  },
+  "BZD": {
+    "name": "Doler Belize"
+  },
+  "CAD": {
+    "name": "Doler Canada"
+  },
+  "CDF": {
+    "name": "Ffranc Congo"
+  },
+  "CHF": {
+    "name": "Ffranc y Swistir"
+  },
+  "CLP": {
+    "name": "Peso Chile"
+  },
+  "CNY": {
+    "name": "Yuan Tsieina"
+  },
+  "COP": {
+    "name": "Peso Colombia"
+  },
+  "CRC": {
+    "name": "Colón Costa Rica"
+  },
+  "CUP": {
+    "name": "Peso Ciwba"
+  },
+  "CVE": {
+    "name": "Esgwdo Cabo Verde"
+  },
+  "CZK": {
+    "name": "Koruna’r Weriniaeth Tsiec"
+  },
+  "DJF": {
+    "name": "Ffranc Djibouti"
+  },
+  "DKK": {
+    "name": "Krone Denmarc"
+  },
+  "DOP": {
+    "name": "Peso Gweriniaeth Dominica"
+  },
+  "DZD": {
+    "name": "Dinar Algeria"
+  },
+  "EGP": {
+    "name": "Punt Yr Aifft"
+  },
+  "ERN": {
+    "name": "Nakfa Eritrea"
+  },
+  "ETB": {
+    "name": "Birr Ethiopia"
+  },
+  "EUR": {
+    "name": "Ewro"
+  },
+  "FJD": {
+    "name": "Doler Ffiji"
+  },
+  "FKP": {
+    "name": "Punt Ynysoedd Falkland/Malvinas"
+  },
+  "GBP": {
+    "name": "Punt Prydain"
+  },
+  "GEL": {
+    "name": "Lari Georgia"
+  },
+  "GHS": {
+    "name": "Cedi Ghana"
+  },
+  "GIP": {
+    "name": "Punt Gibraltar"
+  },
+  "GMD": {
+    "name": "Dalasi Gambia"
+  },
+  "GNF": {
+    "name": "Ffranc Guinée"
+  },
+  "GTQ": {
+    "name": "Quetzal Guatemala"
+  },
+  "GYD": {
+    "name": "Doler Guyana"
+  },
+  "HKD": {
+    "name": "Doler Hong Kong"
+  },
+  "HNL": {
+    "name": "Lempira Honduras"
+  },
+  "HTG": {
+    "name": "Gourde Haiti"
+  },
+  "HUF": {
+    "name": "Fforint Hwngari"
+  },
+  "IDR": {
+    "name": "Rupiah Indonesia"
+  },
+  "ILS": {
+    "name": "Shegel Newydd Israel"
+  },
+  "INR": {
+    "name": "Rwpî India"
+  },
+  "IQD": {
+    "name": "Dinar Irac"
+  },
+  "IRR": {
+    "name": "Rial Iran"
+  },
+  "ISK": {
+    "name": "Króna Gwlad yr Iâ"
+  },
+  "JMD": {
+    "name": "Doler Jamaica"
+  },
+  "JOD": {
+    "name": "Dinar Gwlad yr Iorddonen"
+  },
+  "JPY": {
+    "name": "Yen Japan"
+  },
+  "KES": {
+    "name": "Swllt Kenya"
+  },
+  "KGS": {
+    "name": "Som Kyrgyzstan"
+  },
+  "KHR": {
+    "name": "Riel Cambodia"
+  },
+  "KMF": {
+    "name": "Ffranc Comoros"
+  },
+  "KPW": {
+    "name": "Won Gogledd Corea"
+  },
+  "KRW": {
+    "name": "Won De Corea"
+  },
+  "KWD": {
+    "name": "Dinar Kuwait"
+  },
+  "KYD": {
+    "name": "Doler Ynysoedd Cayman"
+  },
+  "KZT": {
+    "name": "Tenge Kazakstan"
+  },
+  "LAK": {
+    "name": "Kip Laos"
+  },
+  "LBP": {
+    "name": "Punt Libanus"
+  },
+  "LKR": {
+    "name": "Rwpî Sri Lanka"
+  },
+  "LRD": {
+    "name": "Doler Liberia"
+  },
+  "LSL": {
+    "name": "Loti Lesotho"
+  },
+  "LYD": {
+    "name": "Dinar Libya"
+  },
+  "MAD": {
+    "name": "Dirham Moroco"
+  },
+  "MDL": {
+    "name": "Leu Moldofa"
+  },
+  "MGA": {
+    "name": "Ariary Madagascar"
+  },
+  "MKD": {
+    "name": "Denar Macedonia"
+  },
+  "MMK": {
+    "name": "Kyat Myanmar"
+  },
+  "MNT": {
+    "name": "Tugrik Mongolia"
+  },
+  "MOP": {
+    "name": "pataca Macau"
+  },
+  "MRU": {
+    "name": "Ouguiya Mauritania"
+  },
+  "MUR": {
+    "name": "Rwpî Mauritius"
+  },
+  "MVR": {
+    "name": "Rufiyaa’r Maldives"
+  },
+  "MWK": {
+    "name": "Kwacha Malawi"
+  },
+  "MXN": {
+    "name": "Peso Mecsico"
+  },
+  "MYR": {
+    "name": "Ringgit Malaysia"
+  },
+  "MZN": {
+    "name": "Metical Mozambique"
+  },
+  "NAD": {
+    "name": "Doler Namibia"
+  },
+  "NGN": {
+    "name": "Naira Nigeria"
+  },
+  "NIO": {
+    "name": "Cordoba Nicaragwa"
+  },
+  "NOK": {
+    "name": "Krone Norwy"
+  },
+  "NPR": {
+    "name": "Rwpî Nepal"
+  },
+  "NZD": {
+    "name": "Doler Seland Newydd"
+  },
+  "OMR": {
+    "name": "Rial Oman"
+  },
+  "PAB": {
+    "name": "Balboa Panama"
+  },
+  "PEN": {
+    "name": "Sol Periw"
+  },
+  "PGK": {
+    "name": "Kina Papua Guinea Newydd"
+  },
+  "PHP": {
+    "name": "Peso Philipinas"
+  },
+  "PKR": {
+    "name": "Rwpî Pacistan"
+  },
+  "PLN": {
+    "name": "Zloty Gwlad Pwyl"
+  },
+  "PYG": {
+    "name": "Guarani Paraguay"
+  },
+  "QAR": {
+    "name": "Rial Qatar"
+  },
+  "RON": {
+    "name": "Leu Rwmania"
+  },
+  "RSD": {
+    "name": "Dinar Serbia"
+  },
+  "RUB": {
+    "name": "Rwbl Rwsia"
+  },
+  "RWF": {
+    "name": "Ffranc Rwanda"
+  },
+  "SAR": {
+    "name": "Riyal Saudi Arabia"
+  },
+  "SBD": {
+    "name": "Doler Ynysoedd Solomon"
+  },
+  "SCR": {
+    "name": "Rwpî Seychelles"
+  },
+  "SDG": {
+    "name": "Punt Sudan"
+  },
+  "SEK": {
+    "name": "Krona Sweden"
+  },
+  "SGD": {
+    "name": "Doler Singapore"
+  },
+  "SHP": {
+    "name": "Punt St Helena"
+  },
+  "SLE": {
+    "name": "Leone Sierra Leone"
+  },
+  "SOS": {
+    "name": "Swllt Somalia"
+  },
+  "SRD": {
+    "name": "Doler Surinam"
+  },
+  "STN": {
+    "name": "Dobra São Tomé a Príncipe"
+  },
+  "SVC": {
+    "name": "Colón El Salvador"
+  },
+  "SYP": {
+    "name": "Punt Syria"
+  },
+  "SZL": {
+    "name": "Lilangeni Gwlad Swazi"
+  },
+  "THB": {
+    "name": "Baht Gwlad Thai"
+  },
+  "TJS": {
+    "name": "Somoni Tajikistan"
+  },
+  "TMT": {
+    "name": "Manat Turkmenistan"
+  },
+  "TND": {
+    "name": "Dinar Tunisia"
+  },
+  "TOP": {
+    "name": "Paʻanga Tonga"
+  },
+  "TRY": {
+    "name": "Lira Twrci"
+  },
+  "TTD": {
+    "name": "Doler Trinidad a Tobago"
+  },
+  "TWD": {
+    "name": "Doler Newydd Taiwan"
+  },
+  "TZS": {
+    "name": "Swllt Tanzania"
+  },
+  "UAH": {
+    "name": "Hryvnia Wcráin"
+  },
+  "UGX": {
+    "name": "Swllt Uganda"
+  },
+  "USD": {
+    "name": "Doler UDA"
+  },
+  "UYU": {
+    "name": "Peso Uruguay"
+  },
+  "UZS": {
+    "name": "Som Uzbekistan"
+  },
+  "VES": {
+    "name": "Bolívar Venezuela"
+  },
+  "VND": {
+    "name": "Dong Fietnam"
+  },
+  "VUV": {
+    "name": "Vatu Vanuatu"
+  },
+  "WST": {
+    "name": "Tala Samoa"
+  },
+  "XAF": {
+    "name": "Ffranc CFA Canol Affrica"
+  },
+  "XCD": {
+    "name": "Doler Dwyrain y Caribî"
+  },
+  "XOF": {
+    "name": "Ffranc CFA Gorllewin Affrica"
+  },
+  "XPF": {
+    "name": "Ffranc CFP"
+  },
+  "YER": {
+    "name": "Rial Yemen"
+  },
+  "ZAR": {
+    "name": "Rand De Affrica"
+  },
+  "ZMW": {
+    "name": "Kwacha Zambia"
+  },
+  "ZWL": {
+    "name": "Doler Zimbabwe (2009)"
+  }
+}

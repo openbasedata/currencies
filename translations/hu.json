@@ -1,0 +1,464 @@
+{
+  "AED": {
+    "name": "EAE-dirham"
+  },
+  "AFN": {
+    "name": "afgán afghani"
+  },
+  "ALL": {
+    "name": "albán lek"
+  },
+  "AMD": {
+    "name": "örmény dram"
+  },
+  "ANG": {
+    "name": "holland antilláki forint"
+  },
+  "AOA": {
+    "name": "angolai kwanza"
+  },
+  "ARS": {
+    "name": "argentin peso"
+  },
+  "AUD": {
+    "name": "ausztrál dollár"
+  },
+  "AWG": {
+    "name": "arubai florin"
+  },
+  "AZN": {
+    "name": "azerbajdzsáni manat"
+  },
+  "BAM": {
+    "name": "bosznia-hercegovinai konvertibilis márka"
+  },
+  "BBD": {
+    "name": "barbadosi dollár"
+  },
+  "BDT": {
+    "name": "bangladesi taka"
+  },
+  "BGN": {
+    "name": "bolgár új leva"
+  },
+  "BHD": {
+    "name": "bahreini dinár"
+  },
+  "BIF": {
+    "name": "burundi frank"
+  },
+  "BMD": {
+    "name": "bermudai dollár"
+  },
+  "BND": {
+    "name": "brunei dollár"
+  },
+  "BOB": {
+    "name": "bolíviai boliviano"
+  },
+  "BRL": {
+    "name": "brazil real"
+  },
+  "BSD": {
+    "name": "bahamai dollár"
+  },
+  "BTN": {
+    "name": "bhutáni ngultrum"
+  },
+  "BWP": {
+    "name": "botswanai pula"
+  },
+  "BYN": {
+    "name": "belarusz rubel"
+  },
+  "BZD": {
+    "name": "belize-i dollár"
+  },
+  "CAD": {
+    "name": "kanadai dollár"
+  },
+  "CDF": {
+    "name": "kongói frank"
+  },
+  "CHF": {
+    "name": "svájci frank"
+  },
+  "CLP": {
+    "name": "chilei peso"
+  },
+  "CNY": {
+    "name": "kínai jüan"
+  },
+  "COP": {
+    "name": "kolumbiai peso"
+  },
+  "CRC": {
+    "name": "Costa Rica-i colon"
+  },
+  "CUP": {
+    "name": "kubai peso"
+  },
+  "CVE": {
+    "name": "Zöld-foki escudo"
+  },
+  "CZK": {
+    "name": "cseh korona"
+  },
+  "DJF": {
+    "name": "dzsibuti frank"
+  },
+  "DKK": {
+    "name": "dán korona"
+  },
+  "DOP": {
+    "name": "dominikai peso"
+  },
+  "DZD": {
+    "name": "algériai dínár"
+  },
+  "EGP": {
+    "name": "egyiptomi font"
+  },
+  "ERN": {
+    "name": "eritreai nakfa"
+  },
+  "ETB": {
+    "name": "etiópiai birr"
+  },
+  "EUR": {
+    "name": "euró"
+  },
+  "FJD": {
+    "name": "fidzsi dollár"
+  },
+  "FKP": {
+    "name": "falkland-szigeteki font"
+  },
+  "GBP": {
+    "name": "angol font"
+  },
+  "GEL": {
+    "name": "grúz lari"
+  },
+  "GHS": {
+    "name": "ghánai cedi"
+  },
+  "GIP": {
+    "name": "gibraltári font"
+  },
+  "GMD": {
+    "name": "gambiai dalasi"
+  },
+  "GNF": {
+    "name": "guineai frank"
+  },
+  "GTQ": {
+    "name": "guatemalai quetzal"
+  },
+  "GYD": {
+    "name": "guyanai dollár"
+  },
+  "HKD": {
+    "name": "hongkongi dollár"
+  },
+  "HNL": {
+    "name": "hondurasi lempira"
+  },
+  "HTG": {
+    "name": "haiti gourde"
+  },
+  "HUF": {
+    "name": "magyar forint"
+  },
+  "IDR": {
+    "name": "indonéz rúpia"
+  },
+  "ILS": {
+    "name": "izraeli új sékel"
+  },
+  "INR": {
+    "name": "indiai rúpia"
+  },
+  "IQD": {
+    "name": "iraki dínár"
+  },
+  "IRR": {
+    "name": "iráni riál"
+  },
+  "ISK": {
+    "name": "izlandi korona"
+  },
+  "JMD": {
+    "name": "jamaicai dollár"
+  },
+  "JOD": {
+    "name": "jordániai dínár"
+  },
+  "JPY": {
+    "name": "japán jen"
+  },
+  "KES": {
+    "name": "kenyai shilling"
+  },
+  "KGS": {
+    "name": "kirgizisztáni szom"
+  },
+  "KHR": {
+    "name": "kambodzsai riel"
+  },
+  "KMF": {
+    "name": "comorei frank"
+  },
+  "KPW": {
+    "name": "észak-koreai won"
+  },
+  "KRW": {
+    "name": "dél-koreai won"
+  },
+  "KWD": {
+    "name": "kuvaiti dínár"
+  },
+  "KYD": {
+    "name": "kajmán-szigeteki dollár"
+  },
+  "KZT": {
+    "name": "kazahsztáni tenge"
+  },
+  "LAK": {
+    "name": "laoszi kip"
+  },
+  "LBP": {
+    "name": "libanoni font"
+  },
+  "LKR": {
+    "name": "Srí Lanka-i rúpia"
+  },
+  "LRD": {
+    "name": "libériai dollár"
+  },
+  "LSL": {
+    "name": "lesothoi loti"
+  },
+  "LYD": {
+    "name": "líbiai dínár"
+  },
+  "MAD": {
+    "name": "marokkói dirham"
+  },
+  "MDL": {
+    "name": "moldován lei"
+  },
+  "MGA": {
+    "name": "madagaszkári ariary"
+  },
+  "MKD": {
+    "name": "macedón dénár"
+  },
+  "MMK": {
+    "name": "mianmari kyat"
+  },
+  "MNT": {
+    "name": "mongóliai tugrik"
+  },
+  "MOP": {
+    "name": "makaói pataca"
+  },
+  "MRU": {
+    "name": "mauritániai ouguiya"
+  },
+  "MUR": {
+    "name": "mauritiusi rúpia"
+  },
+  "MVR": {
+    "name": "maldív-szigeteki rufiyaa"
+  },
+  "MWK": {
+    "name": "malawi kwacha"
+  },
+  "MXN": {
+    "name": "mexikói peso"
+  },
+  "MYR": {
+    "name": "malajziai ringgit"
+  },
+  "MZN": {
+    "name": "mozambiki metikális"
+  },
+  "NAD": {
+    "name": "namíbiai dollár"
+  },
+  "NGN": {
+    "name": "nigériai naira"
+  },
+  "NIO": {
+    "name": "nicaraguai córdoba"
+  },
+  "NOK": {
+    "name": "norvég korona"
+  },
+  "NPR": {
+    "name": "nepáli rúpia"
+  },
+  "NZD": {
+    "name": "új-zélandi dollár"
+  },
+  "OMR": {
+    "name": "ománi riál"
+  },
+  "PAB": {
+    "name": "panamai balboa"
+  },
+  "PEN": {
+    "name": "perui sol"
+  },
+  "PGK": {
+    "name": "pápua új-guineai kina"
+  },
+  "PHP": {
+    "name": "fülöp-szigeteki peso"
+  },
+  "PKR": {
+    "name": "pakisztáni rúpia"
+  },
+  "PLN": {
+    "name": "lengyel zloty"
+  },
+  "PYG": {
+    "name": "paraguayi guarani"
+  },
+  "QAR": {
+    "name": "katari riál"
+  },
+  "RON": {
+    "name": "román lej"
+  },
+  "RSD": {
+    "name": "szerb dinár"
+  },
+  "RUB": {
+    "name": "orosz rubel"
+  },
+  "RWF": {
+    "name": "ruandai frank"
+  },
+  "SAR": {
+    "name": "szaúdi riál"
+  },
+  "SBD": {
+    "name": "salamon-szigeteki dollár"
+  },
+  "SCR": {
+    "name": "seychelle-szigeteki rúpia"
+  },
+  "SDG": {
+    "name": "szudáni font"
+  },
+  "SEK": {
+    "name": "svéd korona"
+  },
+  "SGD": {
+    "name": "szingapúri dollár"
+  },
+  "SHP": {
+    "name": "Szent Ilona-i font"
+  },
+  "SLE": {
+    "name": "Sierra Leone-i leone"
+  },
+  "SOS": {
+    "name": "szomáli shilling"
+  },
+  "SRD": {
+    "name": "suriname-i dollár"
+  },
+  "STN": {
+    "name": "São Tomé és Príncipe-i dobra"
+  },
+  "SVC": {
+    "name": "Salvadori colón"
+  },
+  "SYP": {
+    "name": "szíriai font"
+  },
+  "SZL": {
+    "name": "szvázi lilangeni"
+  },
+  "THB": {
+    "name": "thai baht"
+  },
+  "TJS": {
+    "name": "tádzsikisztáni somoni"
+  },
+  "TMT": {
+    "name": "türkmenisztáni manat"
+  },
+  "TND": {
+    "name": "tunéziai dínár"
+  },
+  "TOP": {
+    "name": "tongai paanga"
+  },
+  "TRY": {
+    "name": "török líra"
+  },
+  "TTD": {
+    "name": "Trinidad és Tobago-i dollár"
+  },
+  "TWD": {
+    "name": "tajvani új dollár"
+  },
+  "TZS": {
+    "name": "tanzániai shilling"
+  },
+  "UAH": {
+    "name": "ukrán hrivnya"
+  },
+  "UGX": {
+    "name": "ugandai shilling"
+  },
+  "USD": {
+    "name": "USA-dollár"
+  },
+  "UYU": {
+    "name": "uruguayi peso"
+  },
+  "UZS": {
+    "name": "üzbegisztáni szom"
+  },
+  "VES": {
+    "name": "venezuelai bolivar"
+  },
+  "VND": {
+    "name": "vietnámi dong"
+  },
+  "VUV": {
+    "name": "vanuatui vatu"
+  },
+  "WST": {
+    "name": "nyugat-szamoai tala"
+  },
+  "XAF": {
+    "name": "CFA frank BEAC"
+  },
+  "XCD": {
+    "name": "kelet-karibi dollár"
+  },
+  "XOF": {
+    "name": "CFA frank BCEAO"
+  },
+  "XPF": {
+    "name": "csendes-óceáni valutaközösségi frank"
+  },
+  "YER": {
+    "name": "jemeni riál"
+  },
+  "ZAR": {
+    "name": "dél-afrikai rand"
+  },
+  "ZMW": {
+    "name": "zambiai kwacha"
+  },
+  "ZWL": {
+    "name": "Zimbabwei dollár (2009)"
+  }
+}

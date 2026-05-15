@@ -1,0 +1,464 @@
+{
+  "AED": {
+    "name": "Jungtinių Arabų Emyratų dirhamas"
+  },
+  "AFN": {
+    "name": "Afganistano afganis"
+  },
+  "ALL": {
+    "name": "Albanijos lekas"
+  },
+  "AMD": {
+    "name": "Armėnijos dramas"
+  },
+  "ANG": {
+    "name": "Olandijos Antilų guldenas"
+  },
+  "AOA": {
+    "name": "Angolos kvanza"
+  },
+  "ARS": {
+    "name": "Argentinos pesas"
+  },
+  "AUD": {
+    "name": "Australijos doleris"
+  },
+  "AWG": {
+    "name": "Arubos guldenas"
+  },
+  "AZN": {
+    "name": "Azerbaidžano manatas"
+  },
+  "BAM": {
+    "name": "Bosnijos ir Hercegovinos konvertuojamoji markė"
+  },
+  "BBD": {
+    "name": "Barbadoso doleris"
+  },
+  "BDT": {
+    "name": "Bangladešo taka"
+  },
+  "BGN": {
+    "name": "Bulgarijos levas"
+  },
+  "BHD": {
+    "name": "Bahreino dinaras"
+  },
+  "BIF": {
+    "name": "Burundžio frankas"
+  },
+  "BMD": {
+    "name": "Bermudos doleris"
+  },
+  "BND": {
+    "name": "Brunėjaus doleris"
+  },
+  "BOB": {
+    "name": "Bolivijos bolivijanas"
+  },
+  "BRL": {
+    "name": "Brazilijos realas"
+  },
+  "BSD": {
+    "name": "Bahamų doleris"
+  },
+  "BTN": {
+    "name": "Butano ngultrumas"
+  },
+  "BWP": {
+    "name": "Botsvanos pula"
+  },
+  "BYN": {
+    "name": "Baltarusijos rublis"
+  },
+  "BZD": {
+    "name": "Belizo doleris"
+  },
+  "CAD": {
+    "name": "Kanados doleris"
+  },
+  "CDF": {
+    "name": "Kongo frankas"
+  },
+  "CHF": {
+    "name": "Šveicarijos frankas"
+  },
+  "CLP": {
+    "name": "Čilės pesas"
+  },
+  "CNY": {
+    "name": "Kinijos ženminbi juanis"
+  },
+  "COP": {
+    "name": "Kolumbijos pesas"
+  },
+  "CRC": {
+    "name": "Kosta Rikos kolonas"
+  },
+  "CUP": {
+    "name": "Kubos pesas"
+  },
+  "CVE": {
+    "name": "Žaliojo Kyšulio eskudas"
+  },
+  "CZK": {
+    "name": "Čekijos krona"
+  },
+  "DJF": {
+    "name": "Džibučio frankas"
+  },
+  "DKK": {
+    "name": "Danijos krona"
+  },
+  "DOP": {
+    "name": "Dominikos pesas"
+  },
+  "DZD": {
+    "name": "Alžyro dinaras"
+  },
+  "EGP": {
+    "name": "Egipto svaras"
+  },
+  "ERN": {
+    "name": "Eritrėjos nakfa"
+  },
+  "ETB": {
+    "name": "Etiopijos biras"
+  },
+  "EUR": {
+    "name": "Euras"
+  },
+  "FJD": {
+    "name": "Fidžio doleris"
+  },
+  "FKP": {
+    "name": "Falklando salų svaras"
+  },
+  "GBP": {
+    "name": "Didžiosios Britanijos svaras"
+  },
+  "GEL": {
+    "name": "Gruzijos laris"
+  },
+  "GHS": {
+    "name": "Ganos sedis"
+  },
+  "GIP": {
+    "name": "Gibraltaro svaras"
+  },
+  "GMD": {
+    "name": "Gambijos dalasis"
+  },
+  "GNF": {
+    "name": "Gvinėjos frankas"
+  },
+  "GTQ": {
+    "name": "Gvatemalos ketcalis"
+  },
+  "GYD": {
+    "name": "Gajanos doleris"
+  },
+  "HKD": {
+    "name": "Honkongo doleris"
+  },
+  "HNL": {
+    "name": "Hondūro lempira"
+  },
+  "HTG": {
+    "name": "Haičio gurdas"
+  },
+  "HUF": {
+    "name": "Vengrijos forintas"
+  },
+  "IDR": {
+    "name": "Indonezijos rupija"
+  },
+  "ILS": {
+    "name": "Izraelio naujasis šekelis"
+  },
+  "INR": {
+    "name": "Indijos rupija"
+  },
+  "IQD": {
+    "name": "Irako dinaras"
+  },
+  "IRR": {
+    "name": "Irano rialas"
+  },
+  "ISK": {
+    "name": "Islandijos krona"
+  },
+  "JMD": {
+    "name": "Jamaikos doleris"
+  },
+  "JOD": {
+    "name": "Jordanijos dinaras"
+  },
+  "JPY": {
+    "name": "Japonijos jena"
+  },
+  "KES": {
+    "name": "Kenijos šilingas"
+  },
+  "KGS": {
+    "name": "Kirgizijos somas"
+  },
+  "KHR": {
+    "name": "Kambodžos rielis"
+  },
+  "KMF": {
+    "name": "Komoro frankas"
+  },
+  "KPW": {
+    "name": "Šiaurės Korėjos vonas"
+  },
+  "KRW": {
+    "name": "Pietų Korėjos vonas"
+  },
+  "KWD": {
+    "name": "Kuveito dinaras"
+  },
+  "KYD": {
+    "name": "Kaimanų salų doleris"
+  },
+  "KZT": {
+    "name": "Kazachstano tengė"
+  },
+  "LAK": {
+    "name": "Laoso kipas"
+  },
+  "LBP": {
+    "name": "Libano svaras"
+  },
+  "LKR": {
+    "name": "Šri Lankos rupija"
+  },
+  "LRD": {
+    "name": "Liberijos doleris"
+  },
+  "LSL": {
+    "name": "Lesoto lotis"
+  },
+  "LYD": {
+    "name": "Libijos dinaras"
+  },
+  "MAD": {
+    "name": "Maroko dirhamas"
+  },
+  "MDL": {
+    "name": "Moldovos lėja"
+  },
+  "MGA": {
+    "name": "Madagaskaro ariaris"
+  },
+  "MKD": {
+    "name": "Makedonijos denaras"
+  },
+  "MMK": {
+    "name": "Mianmaro kijatas"
+  },
+  "MNT": {
+    "name": "Mongolijos tugrikas"
+  },
+  "MOP": {
+    "name": "Makao pataka"
+  },
+  "MRU": {
+    "name": "Mauritanijos ugija"
+  },
+  "MUR": {
+    "name": "Mauricijaus rupija"
+  },
+  "MVR": {
+    "name": "Maldyvų rufija"
+  },
+  "MWK": {
+    "name": "Malavio kvača"
+  },
+  "MXN": {
+    "name": "Meksikos pesas"
+  },
+  "MYR": {
+    "name": "Malaizijos ringitas"
+  },
+  "MZN": {
+    "name": "Mozambiko metikalis"
+  },
+  "NAD": {
+    "name": "Namibijos doleris"
+  },
+  "NGN": {
+    "name": "Nigerijos naira"
+  },
+  "NIO": {
+    "name": "Nikaragvos kordoba"
+  },
+  "NOK": {
+    "name": "Norvegijos krona"
+  },
+  "NPR": {
+    "name": "Nepalo rupija"
+  },
+  "NZD": {
+    "name": "Naujosios Zelandijos doleris"
+  },
+  "OMR": {
+    "name": "Omano rialas"
+  },
+  "PAB": {
+    "name": "Panamos balboja"
+  },
+  "PEN": {
+    "name": "Peru solis"
+  },
+  "PGK": {
+    "name": "Papua Naujosios Gvinėjos kina"
+  },
+  "PHP": {
+    "name": "Filipinų pesas"
+  },
+  "PKR": {
+    "name": "Pakistano rupija"
+  },
+  "PLN": {
+    "name": "Lenkijos zlotas"
+  },
+  "PYG": {
+    "name": "Paragvajaus guaranis"
+  },
+  "QAR": {
+    "name": "Kataro rialas"
+  },
+  "RON": {
+    "name": "Rumunijos lėja"
+  },
+  "RSD": {
+    "name": "Serbijos dinaras"
+  },
+  "RUB": {
+    "name": "Rusijos rublis"
+  },
+  "RWF": {
+    "name": "Ruandos frankas"
+  },
+  "SAR": {
+    "name": "Saudo Arabijos rijalas"
+  },
+  "SBD": {
+    "name": "Saliamono salų doleris"
+  },
+  "SCR": {
+    "name": "Seišelių rupija"
+  },
+  "SDG": {
+    "name": "Sudano svaras"
+  },
+  "SEK": {
+    "name": "Švedijos krona"
+  },
+  "SGD": {
+    "name": "Singapūro doleris"
+  },
+  "SHP": {
+    "name": "Šv. Elenos salų svaras"
+  },
+  "SLE": {
+    "name": "Siera Leonės leonė"
+  },
+  "SOS": {
+    "name": "Somalio šilingas"
+  },
+  "SRD": {
+    "name": "Surimano doleris"
+  },
+  "STN": {
+    "name": "San Tomės ir Principės dobra"
+  },
+  "SVC": {
+    "name": "Salvadoro kolonas"
+  },
+  "SYP": {
+    "name": "Sirijos svaras"
+  },
+  "SZL": {
+    "name": "Svazilando lilangenis"
+  },
+  "THB": {
+    "name": "Tailando batas"
+  },
+  "TJS": {
+    "name": "Tadžikistano somonis"
+  },
+  "TMT": {
+    "name": "Turkmėnistano manatas"
+  },
+  "TND": {
+    "name": "Tuniso dinaras"
+  },
+  "TOP": {
+    "name": "Tongo paanga"
+  },
+  "TRY": {
+    "name": "Turkijos lira"
+  },
+  "TTD": {
+    "name": "Trinidado ir Tobago doleris"
+  },
+  "TWD": {
+    "name": "Taivano naujasis doleris"
+  },
+  "TZS": {
+    "name": "Tanzanijos šilingas"
+  },
+  "UAH": {
+    "name": "Ukrainos grivina"
+  },
+  "UGX": {
+    "name": "Ugandos šilingas"
+  },
+  "USD": {
+    "name": "JAV doleris"
+  },
+  "UYU": {
+    "name": "Urugvajaus pesas"
+  },
+  "UZS": {
+    "name": "Uzbekistano sumas"
+  },
+  "VES": {
+    "name": "Venesuelos bolivaras"
+  },
+  "VND": {
+    "name": "Vietnamo dongas"
+  },
+  "VUV": {
+    "name": "Vanuatu vatas"
+  },
+  "WST": {
+    "name": "Samoa tala"
+  },
+  "XAF": {
+    "name": "CFA BEAC frankas"
+  },
+  "XCD": {
+    "name": "Rytų Karibų doleris"
+  },
+  "XOF": {
+    "name": "CFA BCEAO frankas"
+  },
+  "XPF": {
+    "name": "CFP frankas"
+  },
+  "YER": {
+    "name": "Jemeno rialas"
+  },
+  "ZAR": {
+    "name": "Pietų Afrikos Respublikos randas"
+  },
+  "ZMW": {
+    "name": "Zambijos kvača"
+  },
+  "ZWL": {
+    "name": "Zimbabvės doleris (2009)"
+  }
+}

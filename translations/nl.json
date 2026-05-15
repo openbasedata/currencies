@@ -1,0 +1,464 @@
+{
+  "AED": {
+    "name": "Verenigde Arabische Emiraten-dirham"
+  },
+  "AFN": {
+    "name": "Afghaanse afghani"
+  },
+  "ALL": {
+    "name": "Albanese lek"
+  },
+  "AMD": {
+    "name": "Armeense dram"
+  },
+  "ANG": {
+    "name": "Nederlands-Antilliaanse gulden"
+  },
+  "AOA": {
+    "name": "Angolese kwanza"
+  },
+  "ARS": {
+    "name": "Argentijnse peso"
+  },
+  "AUD": {
+    "name": "Australische dollar"
+  },
+  "AWG": {
+    "name": "Arubaanse gulden"
+  },
+  "AZN": {
+    "name": "Azerbeidzjaanse manat"
+  },
+  "BAM": {
+    "name": "Bosnische convertibele mark"
+  },
+  "BBD": {
+    "name": "Barbadaanse dollar"
+  },
+  "BDT": {
+    "name": "Bengalese taka"
+  },
+  "BGN": {
+    "name": "Bulgaarse lev"
+  },
+  "BHD": {
+    "name": "Bahreinse dinar"
+  },
+  "BIF": {
+    "name": "Burundese frank"
+  },
+  "BMD": {
+    "name": "Bermuda-dollar"
+  },
+  "BND": {
+    "name": "Bruneise dollar"
+  },
+  "BOB": {
+    "name": "Boliviaanse boliviano"
+  },
+  "BRL": {
+    "name": "Braziliaanse real"
+  },
+  "BSD": {
+    "name": "Bahamaanse dollar"
+  },
+  "BTN": {
+    "name": "Bhutaanse ngultrum"
+  },
+  "BWP": {
+    "name": "Botswaanse pula"
+  },
+  "BYN": {
+    "name": "Belarussische roebel"
+  },
+  "BZD": {
+    "name": "Belizaanse dollar"
+  },
+  "CAD": {
+    "name": "Canadese dollar"
+  },
+  "CDF": {
+    "name": "Congolese frank"
+  },
+  "CHF": {
+    "name": "Zwitserse frank"
+  },
+  "CLP": {
+    "name": "Chileense peso"
+  },
+  "CNY": {
+    "name": "Chinese yuan"
+  },
+  "COP": {
+    "name": "Colombiaanse peso"
+  },
+  "CRC": {
+    "name": "Costa Ricaanse colon"
+  },
+  "CUP": {
+    "name": "Cubaanse peso"
+  },
+  "CVE": {
+    "name": "Kaapverdische escudo"
+  },
+  "CZK": {
+    "name": "Tsjechische kroon"
+  },
+  "DJF": {
+    "name": "Djiboutiaanse frank"
+  },
+  "DKK": {
+    "name": "Deense kroon"
+  },
+  "DOP": {
+    "name": "Dominicaanse peso"
+  },
+  "DZD": {
+    "name": "Algerijnse dinar"
+  },
+  "EGP": {
+    "name": "Egyptisch pond"
+  },
+  "ERN": {
+    "name": "Eritrese nakfa"
+  },
+  "ETB": {
+    "name": "Ethiopische birr"
+  },
+  "EUR": {
+    "name": "Euro"
+  },
+  "FJD": {
+    "name": "Fiji-dollar"
+  },
+  "FKP": {
+    "name": "Falklandeilands pond"
+  },
+  "GBP": {
+    "name": "Britse pond"
+  },
+  "GEL": {
+    "name": "Georgische lari"
+  },
+  "GHS": {
+    "name": "Ghanese cedi"
+  },
+  "GIP": {
+    "name": "Gibraltarees pond"
+  },
+  "GMD": {
+    "name": "Gambiaanse dalasi"
+  },
+  "GNF": {
+    "name": "Guinese frank"
+  },
+  "GTQ": {
+    "name": "Guatemalteekse quetzal"
+  },
+  "GYD": {
+    "name": "Guyaanse dollar"
+  },
+  "HKD": {
+    "name": "Hongkongse dollar"
+  },
+  "HNL": {
+    "name": "Hondurese lempira"
+  },
+  "HTG": {
+    "name": "Haïtiaanse gourde"
+  },
+  "HUF": {
+    "name": "Hongaarse forint"
+  },
+  "IDR": {
+    "name": "Indonesische roepia"
+  },
+  "ILS": {
+    "name": "Israëlische nieuwe shekel"
+  },
+  "INR": {
+    "name": "Indiase roepie"
+  },
+  "IQD": {
+    "name": "Iraakse dinar"
+  },
+  "IRR": {
+    "name": "Iraanse rial"
+  },
+  "ISK": {
+    "name": "IJslandse kroon"
+  },
+  "JMD": {
+    "name": "Jamaicaanse dollar"
+  },
+  "JOD": {
+    "name": "Jordaanse dinar"
+  },
+  "JPY": {
+    "name": "Japanse yen"
+  },
+  "KES": {
+    "name": "Keniaanse shilling"
+  },
+  "KGS": {
+    "name": "Kirgizische som"
+  },
+  "KHR": {
+    "name": "Cambodjaanse riel"
+  },
+  "KMF": {
+    "name": "Comorese frank"
+  },
+  "KPW": {
+    "name": "Noord-Koreaanse won"
+  },
+  "KRW": {
+    "name": "Zuid-Koreaanse won"
+  },
+  "KWD": {
+    "name": "Koeweitse dinar"
+  },
+  "KYD": {
+    "name": "Kaaimaneilandse dollar"
+  },
+  "KZT": {
+    "name": "Kazachse tenge"
+  },
+  "LAK": {
+    "name": "Laotiaanse kip"
+  },
+  "LBP": {
+    "name": "Libanees pond"
+  },
+  "LKR": {
+    "name": "Sri Lankaanse roepie"
+  },
+  "LRD": {
+    "name": "Liberiaanse dollar"
+  },
+  "LSL": {
+    "name": "Lesothaanse loti"
+  },
+  "LYD": {
+    "name": "Libische dinar"
+  },
+  "MAD": {
+    "name": "Marokkaanse dirham"
+  },
+  "MDL": {
+    "name": "Moldavische leu"
+  },
+  "MGA": {
+    "name": "Malagassische ariary"
+  },
+  "MKD": {
+    "name": "Macedonische denar"
+  },
+  "MMK": {
+    "name": "Myanmarese kyat"
+  },
+  "MNT": {
+    "name": "Mongoolse tugrik"
+  },
+  "MOP": {
+    "name": "Macause pataca"
+  },
+  "MRU": {
+    "name": "Mauritaanse ouguiya"
+  },
+  "MUR": {
+    "name": "Mauritiaanse roepie"
+  },
+  "MVR": {
+    "name": "Maldivische rufiyaa"
+  },
+  "MWK": {
+    "name": "Malawische kwacha"
+  },
+  "MXN": {
+    "name": "Mexicaanse peso"
+  },
+  "MYR": {
+    "name": "Maleisische ringgit"
+  },
+  "MZN": {
+    "name": "Mozambikaanse metical"
+  },
+  "NAD": {
+    "name": "Namibische dollar"
+  },
+  "NGN": {
+    "name": "Nigeriaanse naira"
+  },
+  "NIO": {
+    "name": "Nicaraguaanse córdoba"
+  },
+  "NOK": {
+    "name": "Noorse kroon"
+  },
+  "NPR": {
+    "name": "Nepalese roepie"
+  },
+  "NZD": {
+    "name": "Nieuw-Zeelandse dollar"
+  },
+  "OMR": {
+    "name": "Omaanse rial"
+  },
+  "PAB": {
+    "name": "Panamese balboa"
+  },
+  "PEN": {
+    "name": "Peruaanse sol"
+  },
+  "PGK": {
+    "name": "Papoea-Nieuw-Guinese kina"
+  },
+  "PHP": {
+    "name": "Filipijnse peso"
+  },
+  "PKR": {
+    "name": "Pakistaanse roepie"
+  },
+  "PLN": {
+    "name": "Poolse zloty"
+  },
+  "PYG": {
+    "name": "Paraguayaanse guarani"
+  },
+  "QAR": {
+    "name": "Qatarese rial"
+  },
+  "RON": {
+    "name": "Roemeense leu"
+  },
+  "RSD": {
+    "name": "Servische dinar"
+  },
+  "RUB": {
+    "name": "Russische roebel"
+  },
+  "RWF": {
+    "name": "Rwandese frank"
+  },
+  "SAR": {
+    "name": "Saoedi-Arabische riyal"
+  },
+  "SBD": {
+    "name": "Salomon-dollar"
+  },
+  "SCR": {
+    "name": "Seychelse roepie"
+  },
+  "SDG": {
+    "name": "Soedanees pond"
+  },
+  "SEK": {
+    "name": "Zweedse kroon"
+  },
+  "SGD": {
+    "name": "Singaporese dollar"
+  },
+  "SHP": {
+    "name": "Sint-Heleens pond"
+  },
+  "SLE": {
+    "name": "Sierra Leoonse leone"
+  },
+  "SOS": {
+    "name": "Somalische shilling"
+  },
+  "SRD": {
+    "name": "Surinaamse dollar"
+  },
+  "STN": {
+    "name": "Santomese dobra"
+  },
+  "SVC": {
+    "name": "Salvadoraanse colón"
+  },
+  "SYP": {
+    "name": "Syrisch pond"
+  },
+  "SZL": {
+    "name": "Swazische lilangeni"
+  },
+  "THB": {
+    "name": "Thaise baht"
+  },
+  "TJS": {
+    "name": "Tadzjiekse somoni"
+  },
+  "TMT": {
+    "name": "Turkmeense manat"
+  },
+  "TND": {
+    "name": "Tunesische dinar"
+  },
+  "TOP": {
+    "name": "Tongaanse paʻanga"
+  },
+  "TRY": {
+    "name": "Turkse lira"
+  },
+  "TTD": {
+    "name": "Trinidad en Tobago-dollar"
+  },
+  "TWD": {
+    "name": "Nieuwe Taiwanese dollar"
+  },
+  "TZS": {
+    "name": "Tanzaniaanse shilling"
+  },
+  "UAH": {
+    "name": "Oekraïense hryvnia"
+  },
+  "UGX": {
+    "name": "Oegandese shilling"
+  },
+  "USD": {
+    "name": "Amerikaanse dollar"
+  },
+  "UYU": {
+    "name": "Uruguayaanse peso"
+  },
+  "UZS": {
+    "name": "Oezbeekse sum"
+  },
+  "VES": {
+    "name": "Venezolaanse bolivar"
+  },
+  "VND": {
+    "name": "Vietnamese dong"
+  },
+  "VUV": {
+    "name": "Vanuatuaanse vatu"
+  },
+  "WST": {
+    "name": "Samoaanse tala"
+  },
+  "XAF": {
+    "name": "CFA-frank"
+  },
+  "XCD": {
+    "name": "Oost-Caribische dollar"
+  },
+  "XOF": {
+    "name": "CFA-franc BCEAO"
+  },
+  "XPF": {
+    "name": "CFP-frank"
+  },
+  "YER": {
+    "name": "Jemenitische rial"
+  },
+  "ZAR": {
+    "name": "Zuid-Afrikaanse rand"
+  },
+  "ZMW": {
+    "name": "Zambiaanse kwacha"
+  },
+  "ZWL": {
+    "name": "Zimbabwaanse dollar (2009)"
+  }
+}

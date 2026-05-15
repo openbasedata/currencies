@@ -1,0 +1,464 @@
+{
+  "AED": {
+    "name": "Apvienoto Arābu Emirātu dirhēms"
+  },
+  "AFN": {
+    "name": "Afganistānas afgāns"
+  },
+  "ALL": {
+    "name": "Albānijas leks"
+  },
+  "AMD": {
+    "name": "Armēnijas drams"
+  },
+  "ANG": {
+    "name": "Nīderlandes Antiļu guldenis"
+  },
+  "AOA": {
+    "name": "Angolas kvanza"
+  },
+  "ARS": {
+    "name": "Argentīnas peso"
+  },
+  "AUD": {
+    "name": "Austrālijas dolārs"
+  },
+  "AWG": {
+    "name": "Arubas guldenis"
+  },
+  "AZN": {
+    "name": "Azerbaidžānas manats"
+  },
+  "BAM": {
+    "name": "Bosnijas un Hercogovinas konvertējamā marka"
+  },
+  "BBD": {
+    "name": "Barbadosas dolārs"
+  },
+  "BDT": {
+    "name": "Bangladešas taka"
+  },
+  "BGN": {
+    "name": "Bulgārijas leva"
+  },
+  "BHD": {
+    "name": "Bahreinas dinārs"
+  },
+  "BIF": {
+    "name": "Burundi franks"
+  },
+  "BMD": {
+    "name": "Bermudu dolārs"
+  },
+  "BND": {
+    "name": "Brunejas dolārs"
+  },
+  "BOB": {
+    "name": "Bolīvijas boliviano"
+  },
+  "BRL": {
+    "name": "Brazīlijas reāls"
+  },
+  "BSD": {
+    "name": "Bahamu dolārs"
+  },
+  "BTN": {
+    "name": "Butānas ngultrums"
+  },
+  "BWP": {
+    "name": "Botsvanas pula"
+  },
+  "BYN": {
+    "name": "Baltkrievijas rubelis"
+  },
+  "BZD": {
+    "name": "Belizas dolārs"
+  },
+  "CAD": {
+    "name": "Kanādas dolārs"
+  },
+  "CDF": {
+    "name": "KDR franks"
+  },
+  "CHF": {
+    "name": "Šveices franks"
+  },
+  "CLP": {
+    "name": "Čīles peso"
+  },
+  "CNY": {
+    "name": "Ķīnas juaņs"
+  },
+  "COP": {
+    "name": "Kolumbijas peso"
+  },
+  "CRC": {
+    "name": "Kostarikas kolons"
+  },
+  "CUP": {
+    "name": "Kubas peso"
+  },
+  "CVE": {
+    "name": "Kaboverdes eskudo"
+  },
+  "CZK": {
+    "name": "Čehijas krona"
+  },
+  "DJF": {
+    "name": "Džibutijas franks"
+  },
+  "DKK": {
+    "name": "Dānijas krona"
+  },
+  "DOP": {
+    "name": "Dominikānas peso"
+  },
+  "DZD": {
+    "name": "Alžīrijas dinārs"
+  },
+  "EGP": {
+    "name": "Ēģiptes mārciņa"
+  },
+  "ERN": {
+    "name": "Eritrejas nakfa"
+  },
+  "ETB": {
+    "name": "Etiopijas birs"
+  },
+  "EUR": {
+    "name": "eiro"
+  },
+  "FJD": {
+    "name": "Fidži dolārs"
+  },
+  "FKP": {
+    "name": "Folklenda Salu mārciņa"
+  },
+  "GBP": {
+    "name": "Lielbritānijas mārciņa"
+  },
+  "GEL": {
+    "name": "Gruzijas lari"
+  },
+  "GHS": {
+    "name": "Ganas sedi"
+  },
+  "GIP": {
+    "name": "Gibraltāra mārciņa"
+  },
+  "GMD": {
+    "name": "Gambijas dalasi"
+  },
+  "GNF": {
+    "name": "Gvinejas franks"
+  },
+  "GTQ": {
+    "name": "Gvatemalas ketsals"
+  },
+  "GYD": {
+    "name": "Gajānas dolārs"
+  },
+  "HKD": {
+    "name": "Honkongas dolārs"
+  },
+  "HNL": {
+    "name": "Hondurasas lempīra"
+  },
+  "HTG": {
+    "name": "Haiti gurds"
+  },
+  "HUF": {
+    "name": "Ungārijas forints"
+  },
+  "IDR": {
+    "name": "Indonēzijas rūpija"
+  },
+  "ILS": {
+    "name": "Izraēlas šekelis"
+  },
+  "INR": {
+    "name": "Indijas rūpija"
+  },
+  "IQD": {
+    "name": "Irākas dinārs"
+  },
+  "IRR": {
+    "name": "Irānas riāls"
+  },
+  "ISK": {
+    "name": "Islandes krona"
+  },
+  "JMD": {
+    "name": "Jamaikas dolārs"
+  },
+  "JOD": {
+    "name": "Jordānas dinārs"
+  },
+  "JPY": {
+    "name": "Japānas jena"
+  },
+  "KES": {
+    "name": "Kenijas šiliņš"
+  },
+  "KGS": {
+    "name": "Kirgizstānas soms"
+  },
+  "KHR": {
+    "name": "Kambodžas riels"
+  },
+  "KMF": {
+    "name": "Komoru franks"
+  },
+  "KPW": {
+    "name": "Ziemeļkorejas vona"
+  },
+  "KRW": {
+    "name": "Dienvidkorejas vona"
+  },
+  "KWD": {
+    "name": "Kuveitas dinārs"
+  },
+  "KYD": {
+    "name": "Kaimanu salu dolārs"
+  },
+  "KZT": {
+    "name": "Kazahstānas tenge"
+  },
+  "LAK": {
+    "name": "Laosas kips"
+  },
+  "LBP": {
+    "name": "Libānas mārciņa"
+  },
+  "LKR": {
+    "name": "Šrilankas rūpija"
+  },
+  "LRD": {
+    "name": "Libērijas dolārs"
+  },
+  "LSL": {
+    "name": "Lesoto loti"
+  },
+  "LYD": {
+    "name": "Lībijas dinārs"
+  },
+  "MAD": {
+    "name": "Marokas dirhēms"
+  },
+  "MDL": {
+    "name": "Moldovas leja"
+  },
+  "MGA": {
+    "name": "Madagaskaras ariari"
+  },
+  "MKD": {
+    "name": "Maķedonijas denārs"
+  },
+  "MMK": {
+    "name": "Mjanmas kjats"
+  },
+  "MNT": {
+    "name": "Mongolijas tugriks"
+  },
+  "MOP": {
+    "name": "Makao pataka"
+  },
+  "MRU": {
+    "name": "Mauritānijas ugija"
+  },
+  "MUR": {
+    "name": "Maurīcijas rūpija"
+  },
+  "MVR": {
+    "name": "Maldīvijas rūfija"
+  },
+  "MWK": {
+    "name": "Malāvijas kvača"
+  },
+  "MXN": {
+    "name": "Meksikas peso"
+  },
+  "MYR": {
+    "name": "Malaizijas ringits"
+  },
+  "MZN": {
+    "name": "Mozambikas metikals"
+  },
+  "NAD": {
+    "name": "Namībijas dolārs"
+  },
+  "NGN": {
+    "name": "Nigērijas naira"
+  },
+  "NIO": {
+    "name": "Nikaragvas kordoba"
+  },
+  "NOK": {
+    "name": "Norvēģijas krona"
+  },
+  "NPR": {
+    "name": "Nepālas rūpija"
+  },
+  "NZD": {
+    "name": "Jaunzēlandes dolārs"
+  },
+  "OMR": {
+    "name": "Omānas riāls"
+  },
+  "PAB": {
+    "name": "Panamas balboa"
+  },
+  "PEN": {
+    "name": "Peru sols"
+  },
+  "PGK": {
+    "name": "Papua-Jaungvinejas kina"
+  },
+  "PHP": {
+    "name": "Filipīnu peso"
+  },
+  "PKR": {
+    "name": "Pakistānas rūpija"
+  },
+  "PLN": {
+    "name": "Polijas zlots"
+  },
+  "PYG": {
+    "name": "Paragvajas guarani"
+  },
+  "QAR": {
+    "name": "Kataras riāls"
+  },
+  "RON": {
+    "name": "Rumānijas leja"
+  },
+  "RSD": {
+    "name": "Serbijas dinārs"
+  },
+  "RUB": {
+    "name": "Krievijas rublis"
+  },
+  "RWF": {
+    "name": "Ruandas franks"
+  },
+  "SAR": {
+    "name": "Saūda Arābijas riāls"
+  },
+  "SBD": {
+    "name": "Zālamana Salu dolārs"
+  },
+  "SCR": {
+    "name": "Seišelu salu rūpija"
+  },
+  "SDG": {
+    "name": "Sudānas mārciņa"
+  },
+  "SEK": {
+    "name": "Zviedrijas krona"
+  },
+  "SGD": {
+    "name": "Singapūras dolārs"
+  },
+  "SHP": {
+    "name": "Sv.Helēnas salas mārciņa"
+  },
+  "SLE": {
+    "name": "Sjerraleones leone"
+  },
+  "SOS": {
+    "name": "Somālijas šiliņš"
+  },
+  "SRD": {
+    "name": "Surinamas dolārs"
+  },
+  "STN": {
+    "name": "Santome un Prinsipi dobra"
+  },
+  "SVC": {
+    "name": "Salvadoras kolons"
+  },
+  "SYP": {
+    "name": "Sīrijas mārciņa"
+  },
+  "SZL": {
+    "name": "Svazilendas lilangeni"
+  },
+  "THB": {
+    "name": "Taizemes bāts"
+  },
+  "TJS": {
+    "name": "Tadžikistānas somons"
+  },
+  "TMT": {
+    "name": "Turkmenistānas manats"
+  },
+  "TND": {
+    "name": "Tunisijas dinārs"
+  },
+  "TOP": {
+    "name": "Tongas paanga"
+  },
+  "TRY": {
+    "name": "Turcijas lira"
+  },
+  "TTD": {
+    "name": "Trinidādas un Tobāgo dolārs"
+  },
+  "TWD": {
+    "name": "Taivānas jaunais dolārs"
+  },
+  "TZS": {
+    "name": "Tanzānijas šiliņš"
+  },
+  "UAH": {
+    "name": "Ukrainas grivna"
+  },
+  "UGX": {
+    "name": "Ugandas šiliņš"
+  },
+  "USD": {
+    "name": "ASV dolārs"
+  },
+  "UYU": {
+    "name": "Urugvajas peso"
+  },
+  "UZS": {
+    "name": "Uzbekistānas sums"
+  },
+  "VES": {
+    "name": "Venecuēlas bolivārs"
+  },
+  "VND": {
+    "name": "Vjetnamas dongi"
+  },
+  "VUV": {
+    "name": "Vanuatu vatu"
+  },
+  "WST": {
+    "name": "Samoa tala"
+  },
+  "XAF": {
+    "name": "Centrālāfrikas CFA franks"
+  },
+  "XCD": {
+    "name": "Austrumkarību dolārs"
+  },
+  "XOF": {
+    "name": "Rietumāfrikas CFA franks"
+  },
+  "XPF": {
+    "name": "CFP franks"
+  },
+  "YER": {
+    "name": "Jemenas riāls"
+  },
+  "ZAR": {
+    "name": "Dienvidāfrikas rends"
+  },
+  "ZMW": {
+    "name": "Zambijas kvača"
+  },
+  "ZWL": {
+    "name": "Zimbabves dolārs (2009)"
+  }
+}

@@ -1,0 +1,461 @@
+{
+  "AED": {
+    "name": "arabískt dírham"
+  },
+  "AFN": {
+    "name": "afgani"
+  },
+  "ALL": {
+    "name": "albanskt lek"
+  },
+  "AMD": {
+    "name": "armenskt dramm"
+  },
+  "ANG": {
+    "name": "hollenskt Antillugyllini"
+  },
+  "AOA": {
+    "name": "angólsk kvansa"
+  },
+  "ARS": {
+    "name": "argentínskur pesi"
+  },
+  "AUD": {
+    "name": "ástralskur dalur"
+  },
+  "AWG": {
+    "name": "arúbönsk flórína"
+  },
+  "AZN": {
+    "name": "aserskt manat"
+  },
+  "BAM": {
+    "name": "skiptanlegt Bosníu og Hersegóvínu-mark"
+  },
+  "BBD": {
+    "name": "barbadoskur dalur"
+  },
+  "BDT": {
+    "name": "bangladessk taka"
+  },
+  "BGN": {
+    "name": "búlgarskt lef"
+  },
+  "BHD": {
+    "name": "bareinskur denari"
+  },
+  "BIF": {
+    "name": "búrúndískur franki"
+  },
+  "BMD": {
+    "name": "Bermúdadalur"
+  },
+  "BND": {
+    "name": "brúneiskur dalur"
+  },
+  "BOB": {
+    "name": "bólivíani"
+  },
+  "BRL": {
+    "name": "brasilískt ríal"
+  },
+  "BSD": {
+    "name": "Bahamadalur"
+  },
+  "BTN": {
+    "name": "bútanskt núltrum"
+  },
+  "BWP": {
+    "name": "botsvönsk púla"
+  },
+  "BYN": {
+    "name": "hvítrússnesk rúbla"
+  },
+  "BZD": {
+    "name": "belískur dalur"
+  },
+  "CAD": {
+    "name": "Kanadadalur"
+  },
+  "CDF": {
+    "name": "kongóskur franki"
+  },
+  "CHF": {
+    "name": "svissneskur franki"
+  },
+  "CLP": {
+    "name": "síleskur pesi"
+  },
+  "CNY": {
+    "name": "kínverskt júan"
+  },
+  "COP": {
+    "name": "kólumbískur pesi"
+  },
+  "CRC": {
+    "name": "kostarískt kólon"
+  },
+  "CUP": {
+    "name": "kúbverskur pesi"
+  },
+  "CVE": {
+    "name": "grænhöfðeyskur skúti"
+  },
+  "CZK": {
+    "name": "tékknesk króna"
+  },
+  "DJF": {
+    "name": "djíbútískur franki"
+  },
+  "DKK": {
+    "name": "dönsk króna"
+  },
+  "DOP": {
+    "name": "dóminískur pesi"
+  },
+  "DZD": {
+    "name": "alsírskur denari"
+  },
+  "EGP": {
+    "name": "egypskt pund"
+  },
+  "ERN": {
+    "name": "erítresk nakfa"
+  },
+  "ETB": {
+    "name": "eþíópískt birr"
+  },
+  "EUR": {
+    "name": "evra"
+  },
+  "FJD": {
+    "name": "fídjískur dalur"
+  },
+  "FKP": {
+    "name": "falklenskt pund"
+  },
+  "GBP": {
+    "name": "sterlingspund"
+  },
+  "GEL": {
+    "name": "georgískur lari"
+  },
+  "GHS": {
+    "name": "ganverskur sedi"
+  },
+  "GIP": {
+    "name": "Gíbraltarspund"
+  },
+  "GMD": {
+    "name": "gambískur dalasi"
+  },
+  "GNF": {
+    "name": "Gíneufranki"
+  },
+  "GTQ": {
+    "name": "gvatemalskt kvesal"
+  },
+  "GYD": {
+    "name": "gvæjanskur dalur"
+  },
+  "HKD": {
+    "name": "Hong Kong-dalur"
+  },
+  "HNL": {
+    "name": "hondúrsk lempíra"
+  },
+  "HTG": {
+    "name": "haítískur gúrdi"
+  },
+  "HUF": {
+    "name": "ungversk fórinta"
+  },
+  "IDR": {
+    "name": "indónesísk rúpía"
+  },
+  "ILS": {
+    "name": "nýr ísraelskur sikill"
+  },
+  "INR": {
+    "name": "indversk rúpía"
+  },
+  "IQD": {
+    "name": "írakskur denari"
+  },
+  "IRR": {
+    "name": "íranskt ríal"
+  },
+  "ISK": {
+    "name": "íslensk króna"
+  },
+  "JMD": {
+    "name": "jamaískur dalur"
+  },
+  "JOD": {
+    "name": "jórdanskur denari"
+  },
+  "JPY": {
+    "name": "japanskt jen"
+  },
+  "KES": {
+    "name": "kenískur skildingur"
+  },
+  "KGS": {
+    "name": "kirgiskt som"
+  },
+  "KHR": {
+    "name": "kambódískt ríal"
+  },
+  "KMF": {
+    "name": "kómoreyskur franki"
+  },
+  "KPW": {
+    "name": "norðurkóreskt vonn"
+  },
+  "KRW": {
+    "name": "suðurkóreskt vonn"
+  },
+  "KWD": {
+    "name": "kúveiskur denari"
+  },
+  "KYD": {
+    "name": "caymaneyskur dalur"
+  },
+  "KZT": {
+    "name": "kasakst tengi"
+  },
+  "LAK": {
+    "name": "laoskt kip"
+  },
+  "LBP": {
+    "name": "líbanskt pund"
+  },
+  "LKR": {
+    "name": "srílönsk rúpía"
+  },
+  "LRD": {
+    "name": "líberískur dalur"
+  },
+  "LSL": {
+    "name": "lesótóskur lóti"
+  },
+  "LYD": {
+    "name": "líbískur denari"
+  },
+  "MAD": {
+    "name": "marokkóskt dírham"
+  },
+  "MDL": {
+    "name": "moldavískt lei"
+  },
+  "MGA": {
+    "name": "Madagaskararjari"
+  },
+  "MKD": {
+    "name": "makedónskur denari"
+  },
+  "MMK": {
+    "name": "mjanmarskt kjat"
+  },
+  "MNT": {
+    "name": "mongólskur túríkur"
+  },
+  "MOP": {
+    "name": "makaósk pataka"
+  },
+  "MRU": {
+    "name": "márítönsk úgía"
+  },
+  "MUR": {
+    "name": "máritísk rúpía"
+  },
+  "MVR": {
+    "name": "maldíveysk rúpía"
+  },
+  "MWK": {
+    "name": "malavísk kvaka"
+  },
+  "MXN": {
+    "name": "mexíkóskur pesi"
+  },
+  "MYR": {
+    "name": "malasískt ringit"
+  },
+  "MZN": {
+    "name": "mósambískt metikal"
+  },
+  "NAD": {
+    "name": "namibískur dalur"
+  },
+  "NGN": {
+    "name": "nígerísk næra"
+  },
+  "NIO": {
+    "name": "níkarögsk kordóva"
+  },
+  "NOK": {
+    "name": "norsk króna"
+  },
+  "NPR": {
+    "name": "nepölsk rúpía"
+  },
+  "NZD": {
+    "name": "nýsjálenskur dalur"
+  },
+  "OMR": {
+    "name": "ómanskt ríal"
+  },
+  "PAB": {
+    "name": "balbói"
+  },
+  "PEN": {
+    "name": "perúskt sól"
+  },
+  "PGK": {
+    "name": "papúsk kína"
+  },
+  "PHP": {
+    "name": "filippseyskur pesi"
+  },
+  "PKR": {
+    "name": "pakistönsk rúpía"
+  },
+  "PLN": {
+    "name": "pólskt slot"
+  },
+  "PYG": {
+    "name": "paragvæskt gvaraní"
+  },
+  "QAR": {
+    "name": "katarskt ríal"
+  },
+  "RON": {
+    "name": "rúmenskt lei"
+  },
+  "RSD": {
+    "name": "serbneskur denari"
+  },
+  "RUB": {
+    "name": "rússnesk rúbla"
+  },
+  "RWF": {
+    "name": "rúandskur franki"
+  },
+  "SAR": {
+    "name": "sádíarabískt ríal"
+  },
+  "SBD": {
+    "name": "salómonseyskur dalur"
+  },
+  "SCR": {
+    "name": "Seychellesrúpía"
+  },
+  "SDG": {
+    "name": "súdanskt pund"
+  },
+  "SEK": {
+    "name": "sænsk króna"
+  },
+  "SGD": {
+    "name": "singapúrskur dalur"
+  },
+  "SHP": {
+    "name": "helenskt pund"
+  },
+  "SLE": {
+    "name": "síerraleónsk ljóna"
+  },
+  "SOS": {
+    "name": "sómalískur skildingur"
+  },
+  "SRD": {
+    "name": "Súrínamdalur"
+  },
+  "STN": {
+    "name": "Saó Tóme og Prinsípe-dóbra"
+  },
+  "SVC": {
+    "name": "El Salvador Colon"
+  },
+  "SYP": {
+    "name": "sýrlenskt pund"
+  },
+  "SZL": {
+    "name": "svasílenskur lílangeni"
+  },
+  "THB": {
+    "name": "taílenskt bat"
+  },
+  "TJS": {
+    "name": "tadsjikskur sómóni"
+  },
+  "TMT": {
+    "name": "túrkmenskt manat"
+  },
+  "TND": {
+    "name": "túniskur denari"
+  },
+  "TOP": {
+    "name": "Tongapanga"
+  },
+  "TRY": {
+    "name": "tyrknesk líra"
+  },
+  "TTD": {
+    "name": "Trínidad og Tóbagó-dalur"
+  },
+  "TWD": {
+    "name": "taívanskur dalur"
+  },
+  "TZS": {
+    "name": "tansanískur skildingur"
+  },
+  "UAH": {
+    "name": "úkraínsk hrinja"
+  },
+  "UGX": {
+    "name": "úgandskur skildingur"
+  },
+  "USD": {
+    "name": "Bandaríkjadalur"
+  },
+  "UYU": {
+    "name": "úrúgvæskur pesi"
+  },
+  "UZS": {
+    "name": "úsbekskt súm"
+  },
+  "VES": {
+    "name": "venesúelskur bólívari"
+  },
+  "VND": {
+    "name": "víetnamskt dong"
+  },
+  "VUV": {
+    "name": "vanúatúskt vatú"
+  },
+  "WST": {
+    "name": "Samóatala"
+  },
+  "XAF": {
+    "name": "miðafrískur franki"
+  },
+  "XCD": {
+    "name": "austurkarabískur dalur"
+  },
+  "XOF": {
+    "name": "vesturafrískur franki"
+  },
+  "XPF": {
+    "name": "pólinesískur franki"
+  },
+  "YER": {
+    "name": "jemenskt ríal"
+  },
+  "ZAR": {
+    "name": "suðurafrískt rand"
+  },
+  "ZMW": {
+    "name": "sambísk kvaka"
+  }
+}

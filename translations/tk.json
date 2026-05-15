@@ -1,0 +1,458 @@
+{
+  "AED": {
+    "name": "BAE dirhemi"
+  },
+  "AFN": {
+    "name": "Owgan afganisi"
+  },
+  "ALL": {
+    "name": "Alban leki"
+  },
+  "AMD": {
+    "name": "Ermeni dramy"
+  },
+  "ANG": {
+    "name": "Niderland antil guldeni"
+  },
+  "AOA": {
+    "name": "Angola kwanzasy"
+  },
+  "ARS": {
+    "name": "Argentin pesosy"
+  },
+  "AUD": {
+    "name": "Awstraliýa dollary"
+  },
+  "AWG": {
+    "name": "Aruba florini"
+  },
+  "AZN": {
+    "name": "Azerbaýjan manady"
+  },
+  "BAM": {
+    "name": "Konwertirlenýän Bosniýa we Gersegowina markasy"
+  },
+  "BBD": {
+    "name": "Barbados dollary"
+  },
+  "BDT": {
+    "name": "Bangladeş takasy"
+  },
+  "BGN": {
+    "name": "Bolgar lewi"
+  },
+  "BHD": {
+    "name": "Bahreýn dinary"
+  },
+  "BIF": {
+    "name": "Burundi franky"
+  },
+  "BMD": {
+    "name": "Bermuda dollary"
+  },
+  "BND": {
+    "name": "Bruneý dollary"
+  },
+  "BOB": {
+    "name": "Boliwiýa boliwianosy"
+  },
+  "BRL": {
+    "name": "Brazil realy"
+  },
+  "BSD": {
+    "name": "Bagama dollary"
+  },
+  "BTN": {
+    "name": "Butan ngultrumy"
+  },
+  "BWP": {
+    "name": "Botswana pulasy"
+  },
+  "BYN": {
+    "name": "Belarus rubly"
+  },
+  "BZD": {
+    "name": "Beliz dollary"
+  },
+  "CAD": {
+    "name": "Kanada dollary"
+  },
+  "CDF": {
+    "name": "Kongo franky"
+  },
+  "CHF": {
+    "name": "Şweýsar franky"
+  },
+  "CLP": {
+    "name": "Çili pesosy"
+  },
+  "CNY": {
+    "name": "Hytaý ýuany"
+  },
+  "COP": {
+    "name": "Kolumbiýa pesosy"
+  },
+  "CRC": {
+    "name": "Kosta-Rika kolony"
+  },
+  "CUP": {
+    "name": "Kuba pesosy"
+  },
+  "CVE": {
+    "name": "Kabo-Werde eskudosy"
+  },
+  "CZK": {
+    "name": "Çeh kronasy"
+  },
+  "DJF": {
+    "name": "Jibuti franky"
+  },
+  "DKK": {
+    "name": "Daniýa kronasy"
+  },
+  "DOP": {
+    "name": "Dominikan pesosy"
+  },
+  "DZD": {
+    "name": "Alžir dinary"
+  },
+  "EGP": {
+    "name": "Müsür funty"
+  },
+  "ERN": {
+    "name": "Eritreýa nakfasy"
+  },
+  "ETB": {
+    "name": "Efiopiýa byry"
+  },
+  "EUR": {
+    "name": "Ýewro"
+  },
+  "FJD": {
+    "name": "Fiji dollary"
+  },
+  "FKP": {
+    "name": "Folklend adalarynyň funty"
+  },
+  "GBP": {
+    "name": "Britan funt sterlingi"
+  },
+  "GEL": {
+    "name": "Gruzin larisi"
+  },
+  "GHS": {
+    "name": "Gano sedisi"
+  },
+  "GIP": {
+    "name": "Gibraltar funty"
+  },
+  "GMD": {
+    "name": "Gambiýa dalasisi"
+  },
+  "GNF": {
+    "name": "Gwineý franky"
+  },
+  "GTQ": {
+    "name": "Gwatemala ketsaly"
+  },
+  "GYD": {
+    "name": "Gaýana dollary"
+  },
+  "HKD": {
+    "name": "Gonkong dollary"
+  },
+  "HNL": {
+    "name": "Gonduras lempirasy"
+  },
+  "HTG": {
+    "name": "Gaiti gurdy"
+  },
+  "HUF": {
+    "name": "Wenger forinti"
+  },
+  "IDR": {
+    "name": "Indoneziýa rupiýasy"
+  },
+  "ILS": {
+    "name": "Täze Ysraýyl şekeli"
+  },
+  "INR": {
+    "name": "Hindi rupiýasy"
+  },
+  "IQD": {
+    "name": "Yrak dinary"
+  },
+  "IRR": {
+    "name": "Eýran rialy"
+  },
+  "ISK": {
+    "name": "Islandiýa kronasy"
+  },
+  "JMD": {
+    "name": "Ýamaýka dollary"
+  },
+  "JOD": {
+    "name": "Iordan dinary"
+  },
+  "JPY": {
+    "name": "Ýapon ýeni"
+  },
+  "KES": {
+    "name": "Keniýa şillingi"
+  },
+  "KGS": {
+    "name": "Gyrgyz somy"
+  },
+  "KHR": {
+    "name": "Kamboja riýeli"
+  },
+  "KMF": {
+    "name": "Komor adalarynyň franky"
+  },
+  "KPW": {
+    "name": "Demirgazyk Koreý wony"
+  },
+  "KRW": {
+    "name": "Günorta Koreý wony"
+  },
+  "KWD": {
+    "name": "Kuweýt dinary"
+  },
+  "KYD": {
+    "name": "Kaýman adalarynyň dollary"
+  },
+  "KZT": {
+    "name": "Gazak teňňesi"
+  },
+  "LAK": {
+    "name": "Laos kipi"
+  },
+  "LBP": {
+    "name": "Liwan funty"
+  },
+  "LKR": {
+    "name": "Şri-Lanka rupiýasy"
+  },
+  "LRD": {
+    "name": "Liberiýa dollary"
+  },
+  "LSL": {
+    "name": "Lesoto lotisi"
+  },
+  "LYD": {
+    "name": "Liwiýa dinary"
+  },
+  "MAD": {
+    "name": "Marokko dirhamy"
+  },
+  "MDL": {
+    "name": "Moldaw leýi"
+  },
+  "MGA": {
+    "name": "Malagasiý ariarisi"
+  },
+  "MKD": {
+    "name": "Makedon dinary"
+  },
+  "MMK": {
+    "name": "Mýanma kýaty"
+  },
+  "MNT": {
+    "name": "Mongol tugrigi"
+  },
+  "MOP": {
+    "name": "Makao patakasy"
+  },
+  "MRU": {
+    "name": "Mawritan ugiýasy"
+  },
+  "MUR": {
+    "name": "Mawrikiý rupiýasy"
+  },
+  "MVR": {
+    "name": "Maldiw rufiýasy"
+  },
+  "MWK": {
+    "name": "Malawi kwaçasy"
+  },
+  "MXN": {
+    "name": "Meksikan pesosy"
+  },
+  "MYR": {
+    "name": "Malaýziýa ringgiti"
+  },
+  "MZN": {
+    "name": "Mozambik metikaly"
+  },
+  "NAD": {
+    "name": "Namibiýa dollary"
+  },
+  "NGN": {
+    "name": "Nigeriýa naýrasy"
+  },
+  "NIO": {
+    "name": "Nikaragua kordobasy"
+  },
+  "NOK": {
+    "name": "Norwegiýa kronasy"
+  },
+  "NPR": {
+    "name": "Nepal rupiýasy"
+  },
+  "NZD": {
+    "name": "Täze Zelandiýa dollary"
+  },
+  "OMR": {
+    "name": "Oman rialy"
+  },
+  "PAB": {
+    "name": "Panama balboasy"
+  },
+  "PEN": {
+    "name": "Peru soly"
+  },
+  "PGK": {
+    "name": "Papua - Täze Gwineýa kinasy"
+  },
+  "PHP": {
+    "name": "Filippin pesosy"
+  },
+  "PKR": {
+    "name": "Päkistan rupiýasy"
+  },
+  "PLN": {
+    "name": "Polýak zlotysy"
+  },
+  "PYG": {
+    "name": "Paragwaý guaranisi"
+  },
+  "QAR": {
+    "name": "Katar rialy"
+  },
+  "RON": {
+    "name": "Rumyn leýi"
+  },
+  "RSD": {
+    "name": "Serb dinary"
+  },
+  "RUB": {
+    "name": "Rus rubly"
+  },
+  "RWF": {
+    "name": "Ruanda franky"
+  },
+  "SAR": {
+    "name": "Saud rialy"
+  },
+  "SBD": {
+    "name": "Solomon adalarynyň dollary"
+  },
+  "SCR": {
+    "name": "Seýşel rupiýasy"
+  },
+  "SDG": {
+    "name": "Sudan funty"
+  },
+  "SEK": {
+    "name": "Şwed kronasy"
+  },
+  "SGD": {
+    "name": "Singapur dollary"
+  },
+  "SHP": {
+    "name": "Keramatly Ýelena adasynyň funty"
+  },
+  "SLE": {
+    "name": "Sýerra-Leone leony"
+  },
+  "SOS": {
+    "name": "Somali şillingi"
+  },
+  "SRD": {
+    "name": "Surinam dollary"
+  },
+  "STN": {
+    "name": "San-Tome we Prinsipi dobrasy"
+  },
+  "SYP": {
+    "name": "Siriýa funty"
+  },
+  "SZL": {
+    "name": "Swazi lilangeni"
+  },
+  "THB": {
+    "name": "Taýland baty"
+  },
+  "TJS": {
+    "name": "Täjik somonisi"
+  },
+  "TMT": {
+    "name": "Türkmen manady"
+  },
+  "TND": {
+    "name": "Tunis dinary"
+  },
+  "TOP": {
+    "name": "Tonga paangasy"
+  },
+  "TRY": {
+    "name": "Türk lirasy"
+  },
+  "TTD": {
+    "name": "Trininad we Tobago dollary"
+  },
+  "TWD": {
+    "name": "Täze Taýwan dollary"
+  },
+  "TZS": {
+    "name": "Tanzaniýa şillingi"
+  },
+  "UAH": {
+    "name": "Ukrain griwnasy"
+  },
+  "UGX": {
+    "name": "Uganda şillingi"
+  },
+  "USD": {
+    "name": "ABŞ dollary"
+  },
+  "UYU": {
+    "name": "Urugwaý pesosy"
+  },
+  "UZS": {
+    "name": "Özbek somy"
+  },
+  "VES": {
+    "name": "Wenesuela boliwary"
+  },
+  "VND": {
+    "name": "Wýetnam dongy"
+  },
+  "VUV": {
+    "name": "Wanuatu watusy"
+  },
+  "WST": {
+    "name": "Samoa talasy"
+  },
+  "XAF": {
+    "name": "KFA BEAC franky"
+  },
+  "XCD": {
+    "name": "Gündogar karib dollary"
+  },
+  "XOF": {
+    "name": "KFA BCEAO franky"
+  },
+  "XPF": {
+    "name": "Fransuz ýuwaş umman franky"
+  },
+  "YER": {
+    "name": "Ýemen rialy"
+  },
+  "ZAR": {
+    "name": "Günorta Afrika rendi"
+  },
+  "ZMW": {
+    "name": "Zambiýa kwaçasy"
+  }
+}
