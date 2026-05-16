@@ -6,10 +6,7 @@
 npm install @openbasedata/currencies
 ```
 
-`data.json` contains currency metadata with:
-
-- `name` in English
-- `nativeName` in each currency's native language
+`data.json` contains currency metadata with code, name, and symbol, etc.
 
 Other localized translations are split into `/translations/<locale>.json` (one language per file) to keep the main dataset smaller.
 
@@ -19,7 +16,7 @@ Other localized translations are split into `/translations/<locale>.json` (one l
 [
   {
     "code": "CNY",
-    "numericCode": "156",
+    "codeNumeric": "156",
     "name": "Chinese Renminbi Yuan",
     "nativeName": "人民币",
     "symbol": "¥"
@@ -30,7 +27,7 @@ Other localized translations are split into `/translations/<locale>.json` (one l
 | Field         | Type     | Required | Description                                                                 |
 | ------------- | -------- | -------- | --------------------------------------------------------------------------- |
 | `code`        | `string` | Yes      | ISO 4217 alphabetic currency code (3 uppercase letters), e.g. `CNY`.        |
-| `numericCode` | `string` | Yes      | ISO 4217 numeric currency code (3-digit string, zero-padded), e.g. `"156"`. |
+| `codeNumeric` | `string` | Yes      | ISO 4217 numeric currency code (3-digit string, zero-padded), e.g. `"156"`. |
 | `name`        | `string` | Yes      | English currency name.                                                      |
 | `nativeName`  | `string` | Yes      | Currency name in the native language of the issuing country.                |
 | `symbol`      | `string` | Yes      | Commonly used currency symbol, e.g. `¥`.                                    |
