@@ -1,5 +1,8 @@
 # Currencies Open Base Data
 
+[![npm version](https://img.shields.io/npm/v/%40openbasedata%2Fcurrencies)](https://www.npmjs.com/package/@openbasedata/currencies)
+[![npm downloads](https://img.shields.io/npm/dm/%40openbasedata%2Fcurrencies)](https://www.npmjs.com/package/@openbasedata/currencies)
+
 ## How To Use
 
 ```bash
