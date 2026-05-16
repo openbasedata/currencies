@@ -7,6 +7,7 @@ npm install @openbasedata/currencies
 ```
 
 `data.json` contains currency metadata with:
+
 - `name` in English
 - `nativeName` in each currency's native language
 
@@ -26,13 +27,13 @@ Other localized translations are split into `/translations/<locale>.json` (one l
 ]
 ```
 
-| Field         | Type     | Required | Description                                                                             |
-| ------------- | -------- | -------- | --------------------------------------------------------------------------------------- |
-| `code`        | `string` | Yes      | ISO 4217 alphabetic currency code (3 uppercase letters), e.g. `CNY`.                   |
-| `numericCode` | `string` | Yes      | ISO 4217 numeric currency code (3-digit string, zero-padded), e.g. `"156"`.            |
-| `name`        | `string` | Yes      | English currency name.                                                                  |
-| `nativeName`  | `string` | Yes      | Currency name in the native language of the issuing country.                            |
-| `symbol`      | `string` | Yes      | Commonly used currency symbol, e.g. `¥`.                                               |
+| Field         | Type     | Required | Description                                                                 |
+| ------------- | -------- | -------- | --------------------------------------------------------------------------- |
+| `code`        | `string` | Yes      | ISO 4217 alphabetic currency code (3 uppercase letters), e.g. `CNY`.        |
+| `numericCode` | `string` | Yes      | ISO 4217 numeric currency code (3-digit string, zero-padded), e.g. `"156"`. |
+| `name`        | `string` | Yes      | English currency name.                                                      |
+| `nativeName`  | `string` | Yes      | Currency name in the native language of the issuing country.                |
+| `symbol`      | `string` | Yes      | Commonly used currency symbol, e.g. `¥`.                                    |
 
 ## Translations
 

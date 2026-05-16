@@ -3,8 +3,8 @@
   "version": "1.0.0",
   "description": "Open base data for world currencies",
   "keywords": [
-    "currency",
     "currencies",
+    "currency",
     "data",
     "i18n",
     "iso",
@@ -44,6 +44,6 @@
   },
   "devDependencies": {
     "@guoyunhe/oxfmt-config": "^1.1.0",
-    "oxfmt": "^0.48.0"
+    "oxfmt": "^0.50.0"
   }
 }
